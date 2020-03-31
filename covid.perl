@@ -15,6 +15,7 @@ my $usefile;
 my $getcounties;
 #my $aoa = csv (in => "us-counties.csv");
 
+
 #csv (in => $aoa, out => "file.csv", sep_char=> ";");
 
 
@@ -35,8 +36,12 @@ if($getcounties) {
     open my $fh1, "<:encoding(utf8)", "us-counties.csv" or die "us-counties.csv: $!";
     open fh2, '>>', "${timestamp}/counties.dat" or die "counties.dat: $!";
     while (my $row = $csv->getline($fh1)) {
-        $input = $row->[1] .",". $row->[2];
-        $counties{$input} = 1;
+        #if( $row->[2] =~ m/Alabama/) {
+            $input = $row->[1] .",". $row->[2];
+            $counties{$input} = 1;
+            $state = $row->[2];
+            mkdir "${timestamp}/${state}";
+        #}
 
     }
     foreach my $input (keys %counties) {
@@ -62,12 +67,13 @@ if($getcounties) {
     open my $fh2, "<:encoding(utf8)", "us-counties.csv" or die "us-counties.csv: $!";
     while (my $row = $csv->getline($fh2)) {
         $input = $row->[1] .",". $row->[2];
+        $state = $row->[2];
         my $output = $row->[0] .",". $row->[4];
         my $filename_county = $row->[1] ."-". $row->[2];
         foreach my $element (@counties) {
             #print $element,"  ",$input,"\n";
             if($input =~ m/$element/) {
-                open FH, '>>', "${timestamp}/${filename_county}.csv" or die;
+                open FH, '>>', "${timestamp}/${state}/${filename_county}.csv" or die;
                 print FH $output,"\n";
             }
         }
@@ -76,34 +82,35 @@ if($getcounties) {
     die;
 #}
 die;
-if(not defined $state) {
-    $state = "Alabama";
-}
+#if(not defined $state) {
+#    $state = "Alabama";
+#}
 
-if(not defined $county) {
-    $county = "Madison";
-}
+#if(not defined $county) {
+#    $county = "Madison";
+#}
 
-my @rows;
+#my @rows;
 #my $csv = Text::CSV->new ()
-my $csv = Text::CSV->new ({ binary => 1, auto_diag => 1 });
-open my $fh, "<:encoding(utf8)", "us-counties.csv" or die "us-counties.csv: $!";
-while (my $row = $csv->getline ($fh)) {
+#my $csv = Text::CSV->new ({ binary => 1, auto_diag => 1 });
+#open my $fh, "<:encoding(utf8)", "us-counties.csv" or die "us-counties.csv: $!";
+#while (my $row = $csv->getline ($fh)) {
     #print $row->[2];
-    $row->[2] =~ m/$state/ && $row->[1] =~ m/$county/ or next; # 3rd field should match
+#    $row->[2] =~ m/$state/ && $row->[1] =~ m/$county/ or next; # 3rd field should match
     #print "hi";
-    push @rows, $row;
-    }
-close $fh;
+#    push @rows, $row;
+#    }
+#close $fh;
 
 # and write as CSV
 #my $csv = Text::CSV->new ({ binary => 1, auto_diag => 1 });
-open $fh, ">:encoding(utf8)", "$state-$county.csv" or die "$state-$county.csv: $!";
-$csv->say ($fh, $_) for @rows;
-close $fh or die "new.csv: $!";
+#open $fh, ">:encoding(utf8)", "$state-$county.csv" or die "$state-$county.csv: $!";
+#$csv->say ($fh, $_) for @rows;
+#close $fh or die "new.csv: $!";
 
 close(FH);
 close(FH_OUT);
+close(fh2);
 
 sub getLoggingTime {
 
