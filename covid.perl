@@ -11,6 +11,7 @@ my $county;
 my $state;
 my $filename = './us-counties.csv';
 my $outfile;
+my $usefile;
 #my $aoa = csv (in => "us-counties.csv");
 
 #csv (in => $aoa, out => "file.csv", sep_char=> ";");
@@ -19,8 +20,40 @@ my $outfile;
 GetOptions(
     'state=s' => \$state,
     'county=s' => \$county,
+    'usefile' => \$usefile
 ) or die "Usage: $0 --STATE\n";
 
+
+open my $fh, "<:encoding(utf8)", "us-counties.csv" or die "us-counties.csv: $!";
+if($usefile) {
+    my @counties;
+    #my $csv = Text::CSV->new ()
+    my $csv = Text::CSV->new ({ binary => 1, auto_diag => 1 });
+    #print "hello !!!";
+    open fh2, "<:encoding(utf8)", "counties.dat" or die "counties.dat: $!";
+    while(<fh2>) {
+        chomp($_);
+        push @counties, $_;
+    }
+    #print @counties;
+    #foreach my $element (@counties) {
+    #    print $element,"\n";
+    #}
+
+    open my $fh2, "<:encoding(utf8)", "us-counties.csv" or die "us-counties.csv: $!";
+    while (my $row = $csv->getline($fh)) {
+        $input = $row->[1] .",". $row->[2];
+        foreach my $element (@counties) {
+            #print $element,"  ",$input,"\n";
+            if($input =~ m/$element/) {
+                print $input,"\n";
+            }
+        }
+        #print "next!! \n";
+    }
+    die;
+}
+die;
 if(not defined $state) {
     $state = "Alabama";
 }
@@ -47,32 +80,5 @@ open $fh, ">:encoding(utf8)", "$state-$county.csv" or die "$state-$county.csv: $
 $csv->say ($fh, $_) for @rows;
 close $fh or die "new.csv: $!";
 
-
-#$input = "${county},${state}";
-
-#if(not defined $input) {
-#    $input ="Madison,Alabama";
-#}
-
-#my @locales = split(/,/,$input);
-#$county = $locales[0];
-#$state = $locales[1];
-#$outfile = "${county}-${state}.csv";
-#open(FH, '<', $filename) or die $!;
-#open(FH_OUT, '>',  $outfile) or die$!;
-#print FH_OUT "date,cases\n";
-#print("File $filename opened successfully!\n");
-#while(<FH>) {
-#    if($_ =~ "${county},${state}") {
-#        my @tokens = split(/,/,$_);
-#        my $date = $tokens[0];
-#        my $cases = $tokens[4];
-        #foreach my $token (@tokens) {
-        #    print $token;
-        #}
-#        print $date , "," , $cases, "\n";
-#        print FH_OUT $date,",",$cases,"\n";
-#    }
-#}
 close(FH);
 close(FH_OUT);
