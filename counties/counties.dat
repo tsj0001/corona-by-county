@@ -1,2099 +1,2818 @@
-Portage,Wisconsin
-Audubon,Iowa
-Prentiss,Mississippi
-Randolph,Arkansas
-Cass,Michigan
-Boone,Iowa
-El Paso,Colorado
-Bonneville,Idaho
-Marion,Mississippi
-Hunterdon,New Jersey
-Nemaha,Nebraska
-Sheridan,Wyoming
-Hillsdale,Michigan
-Giles,Tennessee
-Jackson,West Virginia
-Chittenden,Vermont
-Breathitt,Kentucky
-Marion,Kentucky
-Bonner,Idaho
-Butler,Ohio
-St. Joseph,Michigan
-Dillon,South Carolina
-Rock,Wisconsin
-Jackson,Georgia
-Lee,Georgia
-Granville,North Carolina
-Huntingdon,Pennsylvania
-Genesee,New York
-Unknown,Minnesota
-Wilson,Tennessee
-Bourbon,Kentucky
-Coffey,Kansas
-Outagamie,Wisconsin
-Alcorn,Mississippi
-Tuscaloosa,Alabama
-Addison,Vermont
-Oceana,Michigan
-Juneau,Wisconsin
-Bradford,Florida
-Sunflower,Mississippi
-Morgan,Indiana
-Kitsap,Washington
-Chesterfield,Virginia
-York,South Carolina
-Wyoming,New York
-Blount,Alabama
-Jackson,Mississippi
-Canyon,Idaho
-Indiana,Pennsylvania
-Newton,Georgia
-Jefferson,Colorado
-Benton,Washington
-Snyder,Pennsylvania
-Franklin,Ohio
-Phillips,Colorado
-Wise,Texas
-Santa Cruz,California
-Woodson,Kansas
-Richmond city,Virginia
-Chenango,New York
-Washakie,Wyoming
-Clallam,Washington
-Gordon,Georgia
-Sumter,South Carolina
-Carter,Tennessee
-Beckham,Oklahoma
-Lawrence,South Dakota
-Oxford,Maine
-Montgomery,Iowa
-Napa,California
-McCreary,Kentucky
-Madison,Illinois
-Bullitt,Kentucky
-Lancaster,Virginia
-Simpson,Mississippi
-Buncombe,North Carolina
-Reynolds,Missouri
-Seminole,Florida
-Tulare,California
-Worcester,Maryland
-Kings,California
-Morgan,Alabama
-Cumberland,Maine
-Oldham,Kentucky
-Clark,Nevada
-Osceola,Michigan
-LaSalle,Illinois
-Harris,Texas
-Aransas,Texas
-Navarro,Texas
-Clay,Alabama
-Unknown,Idaho
-Creek,Oklahoma
-Kershaw,South Carolina
-Amelia,Virginia
-Glynn,Georgia
-King George,Virginia
-Crenshaw,Alabama
-Perry,Missouri
-Bleckley,Georgia
-Salem,New Jersey
-Caddo,Oklahoma
-Isabella,Michigan
-Isanti,Minnesota
-Mifflin,Pennsylvania
-Unknown,Puerto Rico
-Mahaska,Iowa
-Mason,Kentucky
-Marin,California
-Caroline,Maryland
-Chicot,Arkansas
-Cleveland,North Carolina
-Philadelphia,Pennsylvania
-Laurel,Kentucky
-Sandoval,New Mexico
-Gunnison,Colorado
-Coahoma,Mississippi
-Smith,Texas
-Humphreys,Mississippi
-Bourbon,Kansas
-Fayette,Illinois
-Pickaway,Ohio
-Grant,Washington
-Unicoi,Tennessee
-Laramie,Wyoming
-Rio Grande,Colorado
-Roosevelt,Montana
-Taylor,Texas
-Stark,Ohio
-Pulaski,Kentucky
-Fond du Lac,Wisconsin
-Allamakee,Iowa
-Washington,Tennessee
-Sumter,Florida
-Osage,Kansas
-Clay,Indiana
-Lawrence,Mississippi
-Stevens,Kansas
-Goodhue,Minnesota
-Webster,Missouri
-Greenlee,Arizona
-Newton,Mississippi
-Lake,Illinois
-Mayes,Oklahoma
-Walsh,North Dakota
-Ohio,Indiana
-Unknown,Tennessee
-Lexington,South Carolina
-McDowell,North Carolina
-Livingston,Missouri
-Unknown,Louisiana
-Cottonwood,Minnesota
-Muscatine,Iowa
-Rockdale,Georgia
-Williamson,Tennessee
-Paulding,Georgia
-Fairfield,South Carolina
-Robertson,Texas
-Otero,Colorado
-Spokane,Washington
-Randolph,Alabama
-Coryell,Texas
-Southampton,Virginia
-Sebastian,Arkansas
-Blue Earth,Minnesota
-Douglas,Georgia
-Unknown,Missouri
-Crawford,Michigan
-Terrell,Georgia
-Stafford,Virginia
-Robertson,Tennessee
-Calhoun,South Carolina
-Knox,Tennessee
-Van Buren,Arkansas
-Anoka,Minnesota
-Kendall,Illinois
-Seminole,Oklahoma
-New York City,New York
-Matanuska-Susitna Borough,Alaska
-Clinton,Michigan
-Washington,Pennsylvania
-Floyd,Kentucky
-Clayton,Georgia
-Lewis,Kentucky
-Greene,Missouri
-Webster,Louisiana
-Lyon,Minnesota
-Clinton,Indiana
-Mohave,Arizona
-Polk,Iowa
-Petersburg city,Virginia
-Uintah,Utah
-Sequoyah,Oklahoma
-Denver,Colorado
-Lewis,New York
-Alexander,North Carolina
-DeWitt,Texas
-Stephenson,Illinois
-Sumter,Alabama
-Centre,Pennsylvania
-Virginia Beach city,Virginia
-Ashley,Arkansas
-Tazewell,Virginia
-St. Lawrence,New York
-Hidalgo,Texas
-Attala,Mississippi
-Milam,Texas
-Franklin,Illinois
-Alameda,California
-Pinal,Arizona
-Smith,Mississippi
-Marshall,Illinois
-Scott,Mississippi
-Franklin,Indiana
-Plymouth,Massachusetts
-Jackson,Oklahoma
-Barnes,North Dakota
-Northampton,North Carolina
-Taylor,Iowa
-Marshall,Indiana
-Unknown,Kentucky
-Fairbanks North Star Borough,Alaska
-Hoke,North Carolina
-DeSoto,Mississippi
-Suffolk,Massachusetts
-Unknown,Nebraska
-Dade,Georgia
-Clark,South Dakota
-Cuyahoga,Ohio
-Lake,Florida
-Dallas,Alabama
-Yuma,Colorado
-Marion,Tennessee
-Custer,Oklahoma
-Deaf Smith,Texas
-Spotsylvania,Virginia
-Tarrant,Texas
-Washington,Florida
-Red River,Louisiana
-Manassas city,Virginia
-Midland,Michigan
-Berrien,Michigan
-Shenandoah,Virginia
-Hopewell city,Virginia
-Warren,Virginia
-Saline,Arkansas
-Floyd,Georgia
-Owyhee,Idaho
-Otsego,Michigan
-Pulaski,Missouri
-Unknown,South Dakota
-Orange,Texas
-Webster,Kentucky
-Snohomish,Washington
-Alleghany,North Carolina
-Yavapai,Arizona
-Sarasota,Florida
-St. Charles,Missouri
-Missaukee,Michigan
-Preble,Ohio
-Oconee,Georgia
-Iowa,Iowa
-Story,Iowa
-Butler,Kansas
-Galveston,Texas
-Prince William,Virginia
-Wasco,Oregon
-Galax city,Virginia
-Catawba,North Carolina
-Shelby,Indiana
-Warren,Pennsylvania
-Choctaw,Mississippi
-Rankin,Mississippi
-Doniphan,Kansas
-Eau Claire,Wisconsin
-Lincoln,Louisiana
-Worth,Georgia
-Kenai Peninsula Borough,Alaska
-Lincoln,Tennessee
-Scott,Tennessee
-Routt,Colorado
-Smith,Tennessee
-Kent,Maryland
-Eaton,Michigan
-Lawrence,Indiana
-Anderson,Kentucky
-Fluvanna,Virginia
-Wilcox,Alabama
-Montague,Texas
-Pittsylvania,Virginia
-Columbia,Georgia
-Luce,Michigan
-Pickens,Georgia
-Crawford,Arkansas
-Clackamas,Oregon
-Arapahoe,Colorado
-Nassau,Florida
-Windham,Connecticut
-DeKalb,Indiana
-Craven,North Carolina
-Cibola,New Mexico
-Dubuque,Iowa
-Anchorage,Alaska
-Lincoln,Missouri
-Williamsburg city,Virginia
-Washington,Minnesota
-Summit,Ohio
-Washtenaw,Michigan
-Park,Montana
-Humboldt,California
-Hamilton,Tennessee
-Cowlitz,Washington
-Washington,Vermont
-Northumberland,Pennsylvania
-Franklin,Vermont
-Putnam,New York
-Tallahatchie,Mississippi
-New Castle,Delaware
-Larimer,Colorado
-Winnebago,Wisconsin
-Chester,Tennessee
-Cedar,Missouri
-Washington,Nebraska
-Lubbock,Texas
-Grant,Arkansas
-St. Louis city,Missouri
-Liberty,Texas
-Tuscarawas,Ohio
-Cayuga,New York
-Racine,Wisconsin
-Mercer,New Jersey
-Carroll,Kentucky
-Wayne,Ohio
-Franklin,Virginia
-Franklin,Mississippi
-Volusia,Florida
-Brazoria,Texas
-Montgomery,Indiana
-Boulder,Colorado
-Tazewell,Illinois
-Rusk,Texas
-Claiborne,Mississippi
-DeKalb,Alabama
-Jefferson,Alabama
-Harrison,Texas
-Hardin,Tennessee
-Marshall,Mississippi
-Wilkinson,Mississippi
-Deschutes,Oregon
-Ottawa,Michigan
-Fremont,Idaho
-Jones,Iowa
-Cumberland,Pennsylvania
-Greene,Arkansas
-Cape Girardeau,Missouri
-Delaware,Ohio
-Hamilton,New York
-Uvalde,Texas
-Greene,Ohio
-Llano,Texas
-Walton,Georgia
-Yakima,Washington
-Union,Louisiana
-Waseca,Minnesota
-Dougherty,Georgia
-Noble,Oklahoma
-Columbia,Pennsylvania
-Juneau City and Borough,Alaska
-Cheatham,Tennessee
-Cumberland,Tennessee
-Terrebonne,Louisiana
-Union,Oregon
-Linn,Kansas
-Lincoln,Nebraska
-Shelby,Alabama
-Idaho,Idaho
-Washington,Alabama
-Iberville,Louisiana
-Belknap,New Hampshire
-Franklin,Massachusetts
-Hawaii,Hawaii
-Washington,Georgia
-Ripley,Indiana
-Jo Daviess,Illinois
-Conway,Arkansas
-St. Francis,Arkansas
-Gloucester,New Jersey
-Meagher,Montana
-Saunders,Nebraska
-Alachua,Florida
-Teton,Wyoming
-Payne,Oklahoma
-Clear Creek,Colorado
-Henry,Missouri
-Carroll,Tennessee
-Mercer,Kentucky
-Otsego,New York
-Montgomery,Missouri
-Lincoln,South Dakota
-Etowah,Alabama
-Will,Illinois
-Maries,Missouri
-Montgomery,North Carolina
-Gibson,Indiana
-Hockley,Texas
-Clinton,Iowa
-Nelson,Virginia
-Heard,Georgia
-Kearney,Nebraska
-Potter,Pennsylvania
-Comanche,Oklahoma
-Osceola,Florida
-Currituck,North Carolina
-LaPorte,Indiana
-Johnson,Kansas
-Weld,Colorado
-Marshall,South Dakota
-Charles City,Virginia
-Chester,Pennsylvania
-Mobile,Alabama
-Baltimore,Maryland
-Coffee,Georgia
-Nicollet,Minnesota
-Atascosa,Texas
-San Patricio,Texas
-Jefferson,Kansas
-Ellis,Texas
-Noxubee,Mississippi
-Johnson,Tennessee
-Lincoln,Minnesota
-Pottawatomie,Kansas
-Leon,Florida
-Lea,New Mexico
-Henry,Indiana
-Codington,South Dakota
-Whiteside,Illinois
-Duplin,North Carolina
-Putnam,Indiana
-Henry,Virginia
-Orange,Vermont
-McIntosh,North Dakota
-Bell,Texas
-Parker,Texas
-Anderson,Tennessee
-Johnson,Missouri
-Barnwell,South Carolina
-Los Angeles,California
-Jenkins,Georgia
-Wayne,Tennessee
-Tooele,Utah
-Newport News city,Virginia
-Boyle,Kentucky
-Doña Ana,New Mexico
-Yadkin,North Carolina
-Comal,Texas
-Hardin,Kentucky
-Delaware,Indiana
-Washington,Wisconsin
-Suwannee,Florida
-Lynn,Texas
-Davidson,North Carolina
-Travis,Texas
-Washington,Mississippi
-Dorchester,South Carolina
-Aurora,South Dakota
-Miami-Dade,Florida
-Washington,Colorado
-Johnson,Texas
-Oklahoma,Oklahoma
-San Francisco,California
-Hardeman,Tennessee
-Butler,Iowa
-Benton,Oregon
-Antelope,Nebraska
-Lyon,Kentucky
-Putnam,Florida
-Flagler,Florida
-Stone,Missouri
-Fulton,Ohio
-Early,Georgia
-Upson,Georgia
-Newport,Rhode Island
-Van Buren,Michigan
-Lincoln,Idaho
-Coffee,Tennessee
-Polk,North Carolina
-Linn,Oregon
-Kenton,Kentucky
-Catoosa,Georgia
-Ada,Idaho
-Marquette,Michigan
 George,Mississippi
-Mahnomen,Minnesota
-Chaffee,Colorado
-Grand Traverse,Michigan
-Knox,Indiana
-Schuylkill,Pennsylvania
-Love,Oklahoma
-Essex,Massachusetts
-Allen,Kentucky
-Decatur,Georgia
-Unknown,California
-Leelanau,Michigan
-Morrow,Oregon
-Erie,Pennsylvania
-Pinellas,Florida
-Pike,Missouri
-Cochise,Arizona
-Deuel,South Dakota
-Lawrence,Ohio
-Saline,Kansas
-Wood,Wisconsin
-Roanoke,Virginia
-Choctaw,Oklahoma
-Bienville,Louisiana
-Adair,Oklahoma
-Florence,South Carolina
-La Plata,Colorado
-Providence,Rhode Island
-Dooly,Georgia
-Bartow,Georgia
-Pike,Ohio
-Poinsett,Arkansas
-Keokuk,Iowa
-Acadia,Louisiana
-Saginaw,Michigan
-Westchester,New York
-Logan,Kentucky
-Bennington,Vermont
-Nassau,New York
-Autauga,Alabama
-Lenoir,North Carolina
-Dearborn,Indiana
-Mountrail,North Dakota
-Hartford,Connecticut
-Lancaster,Pennsylvania
-Lac qui Parle,Minnesota
-Frederick,Maryland
-Bucks,Pennsylvania
-Macon,Missouri
-Warren,Iowa
-Lane,Oregon
-San Mateo,California
-Lamoille,Vermont
-Cassia,Idaho
-Stephens,Oklahoma
-McKean,Pennsylvania
-Lenawee,Michigan
-Adams,Indiana
-Orange,North Carolina
-Pueblo,Colorado
-Brown,Ohio
-Hale,Texas
-LaGrange,Indiana
-Oconee,South Carolina
-Gregg,Texas
-Berrien,Georgia
-Radford city,Virginia
-Wayne,Pennsylvania
-Navajo,Arizona
-Bates,Missouri
-Dauphin,Pennsylvania
-Cherokee,Alabama
-Hill,Montana
-Roscommon,Michigan
-Honolulu,Hawaii
-Steuben,New York
-Mecklenburg,Virginia
-Woodford,Kentucky
-Meade,South Dakota
-Louisa,Virginia
-Dodge,Wisconsin
-Chattooga,Georgia
-Kanawha,West Virginia
-Knox,Illinois
-White,Indiana
-Monroe,Pennsylvania
-Logan,Ohio
-Troup,Georgia
-Ouachita,Louisiana
-Yankton,South Dakota
-Haywood,Tennessee
-Woodbury,Iowa
-Forsyth,North Carolina
-Potter,Texas
-Hanover,Virginia
-Watauga,North Carolina
-Mecklenburg,North Carolina
-Allen,Ohio
-Laurens,Georgia
-Archuleta,Colorado
-Todd,South Dakota
-Fall River,South Dakota
-Anderson,South Carolina
-Shelby,Kentucky
-Montgomery,Illinois
-Warren,Missouri
-Tift,Georgia
-Woodruff,Arkansas
-St. Clair,Illinois
-Washington,New York
-Yolo,California
-Colbert,Alabama
-Menifee,Kentucky
-Kalkaska,Michigan
-Westmoreland,Pennsylvania
-Fresno,California
-Hill,Texas
-Union,South Dakota
-Jefferson,Idaho
-Lumpkin,Georgia
-Tillamook,Oregon
-Seneca,Ohio
-Randolph,Missouri
-Putnam,Tennessee
-Yazoo,Mississippi
-Park,Wyoming
-Henrico,Virginia
-Cherokee,Oklahoma
-county,state
-Scott,Kentucky
-Martin,Texas
-New Kent,Virginia
-Lawrence,Pennsylvania
-Fremont,Wyoming
-Rice,Minnesota
-Suffolk,New York
-Accomack,Virginia
-Lee,Florida
-Somerset,Pennsylvania
-Coweta,Georgia
-Ulster,New York
-Lee,Virginia
-Portsmouth city,Virginia
-Grenada,Mississippi
-Transylvania,North Carolina
-Tallapoosa,Alabama
-Suffolk city,Virginia
-Boone,Indiana
-Tippecanoe,Indiana
-Bingham,Idaho
-Jackson,Alabama
-Fort Bend,Texas
-Dickson,Tennessee
-Johnson,Wyoming
-Manatee,Florida
-Cheshire,New Hampshire
-Greene,Virginia
-Harrison,Indiana
-Yoakum,Texas
-Madison,New York
-San Juan,Utah
-Walton,Florida
-Sumner,Kansas
-Pottawattamie,Iowa
-Pontotoc,Oklahoma
-Boone,Missouri
-Searcy,Arkansas
-Newaygo,Michigan
-Yellowstone,Montana
-Iberia,Louisiana
-Nueces,Texas
-Pamlico,North Carolina
-Luzerne,Pennsylvania
-Breckinridge,Kentucky
-Ocean,New Jersey
-Independence,Arkansas
-Roosevelt,New Mexico
-Holmes,Ohio
-Kay,Oklahoma
-Clark,Wisconsin
-Loudoun,Virginia
-Alamance,North Carolina
-Atchison,Missouri
-Texas,Missouri
-Bayfield,Wisconsin
-Porter,Indiana
-Rutland,Vermont
-Limestone,Texas
-Unknown,Vermont
-Beaufort,South Carolina
-Dubois,Indiana
-Delta,Michigan
-Sullivan,New York
-Itawamba,Mississippi
-DeKalb,Georgia
-Garfield,Colorado
-Northumberland,Virginia
-Richland,Ohio
-Rensselaer,New York
-Atlantic,New Jersey
-Medina,Texas
-Lafayette,Missouri
-Caswell,North Carolina
-Brookings,South Dakota
-Carver,Minnesota
-Gwinnett,Georgia
-Orange,Virginia
-Montcalm,Michigan
-Twiggs,Georgia
-Santa Rosa,Florida
-Morris,New Jersey
-Trousdale,Tennessee
-Weakley,Tennessee
-Pemiscot,Missouri
-Ventura,California
-Gibson,Tennessee
-McPherson,Kansas
-Kent,Rhode Island
-Chelan,Washington
-Chippewa,Wisconsin
-Island,Washington
-Benton,Arkansas
-St. Francois,Missouri
-Rowan,North Carolina
-Stafford,Kansas
-Shelby,Tennessee
-Butler,Pennsylvania
-Delaware,Pennsylvania
-Chatham,Georgia
-Irwin,Georgia
-McNairy,Tennessee
-West Feliciana,Louisiana
-San Juan,New Mexico
-Kent,Delaware
-Shawnee,Kansas
-Hall,Nebraska
-Stoddard,Missouri
-Licking,Ohio
-Lyon,Nevada
-Bradley,Tennessee
-Burlington,New Jersey
-Washington,Ohio
-Hays,Texas
-Divide,North Dakota
-Hendricks,Indiana
-Jefferson,Mississippi
-Burnet,Texas
-Miller,Georgia
-Houghton,Michigan
-Randolph,West Virginia
-Citrus,Florida
-Jefferson,Wisconsin
-Chester,South Carolina
-Polk,Georgia
-Wayne,North Carolina
-Door,Wisconsin
-Washington,Kentucky
-Sullivan,Tennessee
-Wright,Iowa
-Cook,Illinois
-Butte,South Dakota
-Duval,Florida
-Greene,North Carolina
-Osage,Missouri
-Howard,Arkansas
-Grundy,Tennessee
-Clark,Indiana
-Wright,Missouri
-Wayne,Kentucky
-Harnett,North Carolina
-Chickasaw,Mississippi
-Montour,Pennsylvania
-Weber,Utah
-Middlesex,Connecticut
-Jackson,Indiana
-Broome,New York
-Bartholomew,Indiana
-San Juan,Washington
-DeKalb,Tennessee
-Clay,Georgia
-Wayne,New York
-San Joaquin,California
-Jefferson,Washington
-Bay,Michigan
-St. Clair,Michigan
-Lafayette,Louisiana
-Sedgwick,Kansas
-Nicholas,Kentucky
-Hunt,Texas
-Jackson,Michigan
-Tolland,Connecticut
-Carroll,Illinois
-Fairfield,Connecticut
-Fannin,Texas
-Unknown,Guam
-Madison,Idaho
-Clarke,Mississippi
-Lee,Mississippi
-Pike,Pennsylvania
-Chambers,Alabama
-Pitkin,Colorado
-Douglas,Colorado
-Wythe,Virginia
-Minnehaha,South Dakota
-Iosco,Michigan
-Hall,Texas
-Albany,New York
-Clearwater,Minnesota
-Washington,North Carolina
-Wetzel,West Virginia
-Decatur,Indiana
-Pawnee,Oklahoma
-Chattahoochee,Georgia
-Bedford,Tennessee
-Kern,California
-Highlands,Florida
+Kauai,Hawaii
 Polk,Florida
-Unknown,Illinois
-Pettis,Missouri
-Calhoun,Texas
-Pike,Arkansas
-Marengo,Alabama
-Erie,Ohio
-Craighead,Arkansas
-Telfair,Georgia
-McClain,Oklahoma
-Lucas,Ohio
-Ohio,West Virginia
-Marion,Indiana
-Clay,Florida
-Eagle,Colorado
-Henderson,North Carolina
-Murray,Georgia
-De Soto,Louisiana
-Franklin,Kansas
-Clatsop,Oregon
-Houston,Tennessee
-Jackson,Iowa
-Colquitt,Georgia
-Lancaster,South Carolina
-Bolivar,Mississippi
-Torrance,New Mexico
-Livingston,Louisiana
-Avoyelles,Louisiana
-Morgan,Utah
-Jackson,Florida
-Hot Spring,Arkansas
-Newberry,South Carolina
-Somerset,Maryland
-Canadian,Oklahoma
-Miami,Ohio
-DuPage,Illinois
-Prince Edward,Virginia
-Scott,Minnesota
-Milwaukee,Wisconsin
-Morton,North Dakota
-Okaloosa,Florida
-Broward,Florida
-Sabine,Louisiana
-Salt Lake,Utah
-Whitley,Indiana
-Prince George,Virginia
-Fayette,Pennsylvania
-Benton,Missouri
-Logan,Illinois
-Cortland,New York
-Chaves,New Mexico
-Nevada,Arkansas
-Appling,Georgia
-Unknown,Rhode Island
-Marion,Alabama
-Lake,Indiana
-Lincoln,Oregon
-Crawford,Missouri
-Choctaw,Alabama
-Wood,Ohio
-Calcasieu,Louisiana
-Calaveras,California
-Sumter,Georgia
-San Miguel,New Mexico
-Roane,Tennessee
-Peoria,Illinois
-Ingham,Michigan
-Wyandot,Ohio
-Saratoga,New York
-Oswego,New York
-Unknown,Hawaii
-Clinton,Ohio
-Franklin,North Carolina
-McDuffie,Georgia
-Washington,Oregon
-Fairfax,Virginia
-Broadwater,Montana
-Charlotte,Florida
-Campbell,Tennessee
-Gratiot,Michigan
-Ramsey,Minnesota
-Lyon,Kansas
-Burleigh,North Dakota
-Camden,New Jersey
-Copiah,Mississippi
-Lewis,Washington
-Bossier,Louisiana
-Hawkins,Tennessee
-Dawson,Georgia
-Brazos,Texas
-Payette,Idaho
-Marion,Florida
-Rockwall,Texas
-Loudon,Tennessee
-Leflore,Mississippi
-Sullivan,New Hampshire
-Pickens,Alabama
-Van Zandt,Texas
-Cook,Georgia
-Benton,Iowa
-Crawford,Iowa
-Lackawanna,Pennsylvania
-Walker,Alabama
-Gallia,Ohio
-Kendall,Texas
-Rogers,Oklahoma
-Washington,Virginia
-Huron,Ohio
-Greene,Pennsylvania
-Dunklin,Missouri
-Belmont,Ohio
-Cross,Arkansas
-Bowie,Texas
-Montgomery,Texas
-Halifax,Virginia
-Madison,Kentucky
-Monona,Iowa
-Oneida,Wisconsin
-Muhlenberg,Kentucky
-Worcester,Massachusetts
-Hertford,North Carolina
-Blount,Tennessee
-Kootenai,Idaho
-Minidoka,Idaho
-Jerome,Idaho
-Washington,Maryland
-Scotland,North Carolina
-Summit,Colorado
-West Baton Rouge,Louisiana
-Douglas,Nevada
-Ross,Ohio
-Logan,Colorado
-DeSoto,Florida
-Camden,Georgia
-Chariton,Missouri
-Schuyler,New York
-Wichita,Texas
-Dickinson,Michigan
-Levy,Florida
-Kankakee,Illinois
-Clayton,Iowa
-Collin,Texas
-Maury,Tennessee
-Logan,Oklahoma
-Thomas,Georgia
-District of Columbia,District of Columbia
-Morgan,Georgia
-Franklin,Pennsylvania
-Faribault,Minnesota
-Clarke,Georgia
-Fayette,Texas
-Unknown,Massachusetts
-Willacy,Texas
-Grant,Kentucky
-Panola,Mississippi
-Cleveland,Oklahoma
-York,Virginia
-Chippewa,Michigan
-Newton,Indiana
-Upshur,Texas
-Fairfield,Ohio
-Surry,North Carolina
-Converse,Wyoming
-Coconino,Arizona
-San Benito,California
-Nowata,Oklahoma
-Cedar,Iowa
-Vanderburgh,Indiana
-Mason,Washington
-Fayette,Kentucky
-Wilkes,Georgia
-Marion,South Carolina
-Lancaster,Nebraska
-Ravalli,Montana
-Brevard,Florida
+Jackson,Kentucky
+Jackson,Oregon
+Lincoln,Arkansas
 Douglas,Washington
-La Crosse,Wisconsin
-Madison,Nebraska
-Aiken,South Carolina
-Amite,Mississippi
+Carter,Tennessee
+Leflore,Mississippi
 Charlevoix,Michigan
-Sonoma,California
-Jasper,Iowa
-King,Washington
-San Miguel,Colorado
-Pierce,Georgia
-Finney,Kansas
-Faulk,South Dakota
-Monroe,Wisconsin
-Clay,Mississippi
-Saline,Illinois
-Madison,Louisiana
-Madison,Tennessee
+Bristol city,Virginia
+Wood,Wisconsin
+Dickinson,Michigan
+Pendleton,West Virginia
+Stark,Illinois
+Douglas,Illinois
+Randolph,Arkansas
+Van Wert,Ohio
+Lincoln,Montana
+Toombs,Georgia
+Meriwether,Georgia
+Wayne,Kentucky
+Allegan,Michigan
+Warrick,Indiana
+Hancock,Kentucky
+Sussex,New Jersey
+Rockingham,North Carolina
+Franklin,Iowa
+Roanoke city,Virginia
+Park,Montana
+Woodford,Kentucky
+Sevier,Tennessee
+Kootenai,Idaho
+Tishomingo,Mississippi
+Cedar,Iowa
+Montgomery,Mississippi
+Becker,Minnesota
+Park,Wyoming
+Sevier,Utah
+Miller,Missouri
+Gates,North Carolina
+Hamilton,Nebraska
+Kimball,Nebraska
+Nance,Nebraska
+Red River,Texas
+Petersburg Borough,Alaska
 Sevier,Arkansas
-Venango,Pennsylvania
-Lincoln,North Carolina
-Inyo,California
-Carson City,Nevada
-Monroe,Illinois
-Whitman,Washington
-Charleston,South Carolina
-Passaic,New Jersey
-Geauga,Ohio
-Medina,Ohio
-Campbell,Kentucky
-LaSalle,Louisiana
-Tangipahoa,Louisiana
-Warren,Ohio
-Wirt,West Virginia
-Edgefield,South Carolina
-Livingston,Illinois
-Beauregard,Louisiana
-Franklin,Texas
-Emmet,Michigan
-Litchfield,Connecticut
-Dane,Wisconsin
+Cook,Georgia
 Franklin,Georgia
-Terry,Texas
-Starr,Texas
-Upshur,West Virginia
-Harrison,Mississippi
-Androscoggin,Maine
-Campbell,Wyoming
-Bergen,New Jersey
-Candler,Georgia
-Morgan,Tennessee
-Broomfield,Colorado
-Muskogee,Oklahoma
-Mendocino,California
-Lee,North Carolina
-St. Martin,Louisiana
-Kossuth,Iowa
-Henry,Iowa
-Marinette,Wisconsin
-Albemarle,Virginia
-Schley,Georgia
-Cascade,Montana
-Lewis,Tennessee
-Caldwell,Louisiana
-Jasper,Missouri
-Grays Harbor,Washington
-Brown,Texas
-Matagorda,Texas
-Fayette,Tennessee
-Green,Wisconsin
-Jefferson,Georgia
-Washington,Indiana
-Unknown,Michigan
-Logan,West Virginia
-Brunswick,North Carolina
-Marlboro,South Carolina
-Wells,Indiana
-Ector,Texas
-St. John the Baptist,Louisiana
-Yalobusha,Mississippi
-Iron,Wisconsin
-Clinton,Missouri
-Ford,Kansas
-Hampshire,Massachusetts
-Scotts Bluff,Nebraska
+Phelps,Nebraska
+Harrisonburg city,Virginia
+Wharton,Texas
+Falls Church city,Virginia
+Johnson,Texas
+Monroe,Wisconsin
 King William,Virginia
+Santa Barbara,California
+Creek,Oklahoma
+Fulton,New York
+Hickman,Tennessee
+Davie,North Carolina
+Bethel Census Area,Alaska
+Cherokee,North Carolina
+Latimer,Oklahoma
+Haywood,North Carolina
+Macoupin,Illinois
+Carter,Kentucky
+Fluvanna,Virginia
+Pottawatomie,Kansas
+Custer,Idaho
+Sullivan,New York
+Butler,Ohio
+Perry,Tennessee
+Clear Creek,Colorado
+Greene,Pennsylvania
+Clay,Tennessee
+Clare,Michigan
+Douglas,Colorado
+Baker,Florida
+Nelson,Kentucky
+Ouachita,Arkansas
+Braxton,West Virginia
+Price,Wisconsin
+Coconino,Arizona
+Choctaw,Oklahoma
+Ingham,Michigan
+Iberville,Louisiana
+Hertford,North Carolina
+Boundary,Idaho
+DeSoto,Florida
+Kingsbury,South Dakota
+Laramie,Wyoming
+Lake,Illinois
+Poweshiek,Iowa
+Pickaway,Ohio
+Vernon,Louisiana
+Washington,Ohio
+Butler,Iowa
+Unknown,Idaho
+Meigs,Tennessee
+Lac qui Parle,Minnesota
+New Madrid,Missouri
+Somerset,New Jersey
+Arapahoe,Colorado
+Cedar,Nebraska
+Moultrie,Illinois
+Karnes,Texas
+Andrew,Missouri
+Calhoun,Michigan
+Huntingdon,Pennsylvania
+Armstrong,Pennsylvania
+Stone,Arkansas
+Hampton city,Virginia
+Clinch,Georgia
+Lawrence,South Dakota
+Marion,Florida
+Saluda,South Carolina
+Wilbarger,Texas
+Archuleta,Colorado
+Big Stone,Minnesota
+Shenandoah,Virginia
+Fond du Lac,Wisconsin
+Ashley,Arkansas
+Pender,North Carolina
+Wyandotte,Kansas
+Merrimack,New Hampshire
+Montgomery,Missouri
+Telfair,Georgia
+Moffat,Colorado
+Clay,Alabama
+York,South Carolina
+Rutland,Vermont
+Shawnee,Kansas
+Wirt,West Virginia
+Lamoille,Vermont
+Lake,Michigan
+Lawrence,Arkansas
+Polk,Iowa
+Searcy,Arkansas
+Madison,Idaho
+Lampasas,Texas
+Bosque,Texas
+Lander,Nevada
+Juniata,Pennsylvania
+Kendall,Illinois
+Crawford,Arkansas
+Somerset,Maine
+Randall,Texas
+Franklin,Louisiana
+Floyd,Kentucky
+Boyle,Kentucky
+Will,Illinois
+Wright,Iowa
+Twin Falls,Idaho
+Iowa,Wisconsin
+Rusk,Wisconsin
+Louisa,Virginia
+Clinton,Pennsylvania
+Prince George,Virginia
+Unknown,Rhode Island
+Nicholas,West Virginia
+Steuben,Indiana
+Columbia,Florida
+McDuffie,Georgia
+Elk,Pennsylvania
+Smyth,Virginia
+Box Elder,Utah
+Gunnison,Colorado
+Worth,Missouri
+Botetourt,Virginia
+Ashe,North Carolina
+Hillsdale,Michigan
+Washington,Utah
+Marion,Oregon
+Summit,Colorado
+Kittitas,Washington
+Jeff Davis,Georgia
+San Juan,New Mexico
+Aransas,Texas
+Snohomish,Washington
+Bienville,Louisiana
+Mercer,West Virginia
+Greenlee,Arizona
+Allamakee,Iowa
+Kit Carson,Colorado
+Greene,Arkansas
+Lincoln,Georgia
+Wayne,Ohio
+Guadalupe,Texas
+Pierce,Nebraska
+Lee,North Carolina
+Sarasota,Florida
+Henrico,Virginia
+Columbia,Wisconsin
+Hawkins,Tennessee
+Jefferson,Louisiana
+Ottawa,Ohio
+Sublette,Wyoming
+Clallam,Washington
+Unknown,Washington
+Northampton,Virginia
+Logan,West Virginia
+Hot Spring,Arkansas
+Choctaw,Mississippi
+Unknown,Illinois
+Audubon,Iowa
+Sweetwater,Wyoming
+Dunn,North Dakota
+Payette,Idaho
+Houston,Minnesota
+Carlton,Minnesota
+Franklin,Vermont
+Kane,Utah
+Alleghany,North Carolina
+Broward,Florida
+Lawrence,Kentucky
+Clatsop,Oregon
+Passaic,New Jersey
+Humphreys,Tennessee
+Clay,Arkansas
+Jones,North Carolina
+Benton,Mississippi
+Winn,Louisiana
+Platte,Missouri
+Sherman,Texas
+Pratt,Kansas
+Washington,Kentucky
+Bladen,North Carolina
+Allendale,South Carolina
+Santa Fe,New Mexico
+Cotton,Oklahoma
+Middlesex,New Jersey
+Sabine,Texas
+Gadsden,Florida
+Brooke,West Virginia
+Nodaway,Missouri
+McIntosh,North Dakota
+St. Joseph,Michigan
+Wyoming,West Virginia
+Caroline,Maryland
+Jackson,Michigan
+Mingo,West Virginia
+Marion,Kansas
+Hocking,Ohio
+Van Buren,Michigan
+Greene,Tennessee
+Franklin,Missouri
+Screven,Georgia
+Bradley,Tennessee
+Lancaster,South Carolina
+Yellow Medicine,Minnesota
+Beauregard,Louisiana
+Vance,North Carolina
+Hamilton,Tennessee
+Polk,North Carolina
+Madison,Illinois
+Mason,Kentucky
+Plaquemines,Louisiana
+Tyler,Texas
+Benton,Indiana
+Roberts,South Dakota
+Tooele,Utah
+Waseca,Minnesota
+Oneida,New York
+Linn,Kansas
+Tioga,New York
+Tucker,West Virginia
+Guilford,North Carolina
+Starr,Texas
+Leelanau,Michigan
+Tallapoosa,Alabama
+Barren,Kentucky
+Fresno,California
+Johnston,North Carolina
+Stevens,Washington
+Beadle,South Dakota
+Adams,Mississippi
+Morgan,Utah
+Elko,Nevada
+St. John the Baptist,Louisiana
+McLean,Kentucky
+Greenup,Kentucky
+Pinal,Arizona
+Wood,Ohio
+Morgan,Tennessee
+Hancock,Maine
+Hidalgo,New Mexico
+Hickman,Kentucky
+Sandoval,New Mexico
+Martin,Minnesota
+Mackinac,Michigan
+Ripley,Indiana
+Donley,Texas
+Wilkes,North Carolina
+Curry,New Mexico
+Carroll,Indiana
+Page,Virginia
+Carteret,North Carolina
+Boulder,Colorado
+Pike,Indiana
+Rock,Wisconsin
+St. Clair,Missouri
+Appling,Georgia
+Steuben,New York
+Clarke,Iowa
+Sanpete,Utah
+Williams,Ohio
+Rio Arriba,New Mexico
+Luzerne,Pennsylvania
+Lewis,Washington
+Henry,Alabama
+Toole,Montana
+Rooks,Kansas
+Washtenaw,Michigan
+Clinton,Missouri
+Grant,Indiana
+Moniteau,Missouri
+Menominee,Wisconsin
+Carroll,Ohio
+Perry,Arkansas
+Stillwater,Montana
+Portsmouth city,Virginia
+Carroll,Iowa
+Turner,South Dakota
+Unknown,Colorado
+Beaver,Oklahoma
+Churchill,Nevada
+Jefferson Davis,Louisiana
+Colorado,Texas
+Sangamon,Illinois
+Fayette,Pennsylvania
+Coweta,Georgia
+Union,Oregon
+Jackson,Tennessee
+Oglala Lakota,South Dakota
+Dickson,Tennessee
+Hughes,South Dakota
+Umatilla,Oregon
+Taylor,Kentucky
+Waldo,Maine
+Nassau,Florida
+Cooper,Missouri
+Whiteside,Illinois
+Faulkner,Arkansas
+Wise,Texas
+Middlesex,Massachusetts
+Essex,New Jersey
+Rock Island,Illinois
+Genesee,New York
+Houston,Texas
+Delaware,Ohio
+Shiawassee,Michigan
+Crisp,Georgia
+McHenry,Illinois
+Marin,California
+Anderson,Texas
+York,Virginia
+Delta,Colorado
+Franklin,Texas
+Volusia,Florida
+Essex,New York
+Conecuh,Alabama
+Piatt,Illinois
+Boone,West Virginia
+Henderson,Kentucky
+Broadwater,Montana
+Moore,Tennessee
+Morgan,Kentucky
+Hamilton,Illinois
+Union,Mississippi
+Tama,Iowa
+Wilkes,Georgia
+Winnebago,Iowa
+Stewart,Tennessee
+Clay,Minnesota
+Lee,Georgia
+Brantley,Georgia
+Stafford,Kansas
+Ocean,New Jersey
+Washington,New York
+Mountrail,North Dakota
+Hamilton,Ohio
+Bon Homme,South Dakota
+Jefferson,Colorado
+Davidson,North Carolina
+Orange,New York
+Sandusky,Ohio
+Pierce,North Dakota
+Lee,Texas
+Garvin,Oklahoma
+Childress,Texas
+Lowndes,Georgia
+Caroline,Virginia
+Moody,South Dakota
+Roscommon,Michigan
+Nantucket,Massachusetts
+Golden Valley,Montana
+Tom Green,Texas
+Burlington,New Jersey
+St. Martin,Louisiana
+Vernon,Missouri
+Foster,North Dakota
+Haskell,Oklahoma
+Lincoln,Idaho
+Potter,Pennsylvania
+Roanoke,Virginia
+Buchanan,Iowa
+Obion,Tennessee
+Wayne,North Carolina
+Washington,Missouri
+Pontotoc,Mississippi
+Park,Colorado
+Worth,Georgia
+Pottawatomie,Oklahoma
+Fauquier,Virginia
+Hendry,Florida
+Montgomery,Ohio
+Humphreys,Mississippi
+Harnett,North Carolina
+Shelby,Iowa
+Lawrence,Indiana
+Coffee,Tennessee
+Catoosa,Georgia
+Comanche,Texas
+McLennan,Texas
+Meagher,Montana
+Cole,Missouri
+Loudoun,Virginia
+Perry,Missouri
+Wright,Minnesota
+Quay,New Mexico
+Crawford,Indiana
+Iberia,Louisiana
+Bennington,Vermont
+Bureau,Illinois
+Fort Bend,Texas
+Christian,Kentucky
+Allegany,Maryland
+Hardeman,Tennessee
+Morgan,Colorado
+Lee,Virginia
+Allen,Indiana
+Calcasieu,Louisiana
+Onondaga,New York
+Missoula,Montana
+Blount,Alabama
+Montrose,Colorado
+Duval,Florida
+Pennington,Minnesota
+Casey,Kentucky
+Neosho,Kansas
+Jack,Texas
+Evans,Georgia
+Hampshire,Massachusetts
+Gladwin,Michigan
+Navajo,Arizona
+Middlesex,Connecticut
+Smith,Texas
+LaPorte,Indiana
+Clark,Washington
+Dorchester,South Carolina
+Jackson,Minnesota
+Elbert,Georgia
+Skagit,Washington
+Douglas,Nevada
+Warren,Indiana
+Monmouth,New Jersey
+Hardin,Illinois
+Jackson,Texas
+Harris,Texas
+Unknown,Arkansas
+Todd,Minnesota
+Gwinnett,Georgia
+Marion,Georgia
+Seminole,Georgia
+Shelby,Ohio
+Piscataquis,Maine
+Seward,Nebraska
+Emporia city,Virginia
+Houston,Tennessee
+Muskingum,Ohio
+Jackson,West Virginia
+Kewaunee,Wisconsin
+Decatur,Georgia
+Boone,Iowa
+Lowndes,Alabama
+Lancaster,Virginia
+Douglas,Georgia
+Mercer,Ohio
+Torrance,New Mexico
+Russell,Virginia
+Fillmore,Minnesota
+Newton,Missouri
+Macomb,Michigan
+Gloucester,New Jersey
+Baltimore,Maryland
+Gibson,Indiana
+Hamilton,Kansas
+Randolph,Indiana
+Scurry,Texas
+McCulloch,Texas
+Cameron,Pennsylvania
+Kenai Peninsula Borough,Alaska
+Hancock,West Virginia
+Okanogan,Washington
+Frio,Texas
+Pamlico,North Carolina
+Coshocton,Ohio
+Independence,Arkansas
+Simpson,Kentucky
+Martin,Texas
+Spencer,Indiana
+Iron,Wisconsin
+Gem,Idaho
+Terrebonne,Louisiana
+Texas,Missouri
+Teller,Colorado
+Warren,Mississippi
+Greene,New York
+Roosevelt,New Mexico
+Scott,Iowa
+Madison,Arkansas
+Johnson,Kentucky
+Gonzales,Texas
+Delaware,Oklahoma
+Butts,Georgia
+St. Lucie,Florida
+Pontotoc,Oklahoma
+Delaware,New York
+Travis,Texas
+Osage,Oklahoma
+Sullivan,New Hampshire
+Hardin,Texas
+Washington,Mississippi
+Talladega,Alabama
+Fairfield,Ohio
+Henry,Indiana
+Grand Forks,North Dakota
+Lake,South Dakota
+Madison,Montana
+Dallas,Missouri
+Wabash,Illinois
+Evangeline,Louisiana
+Shawano,Wisconsin
+Lavaca,Texas
+Summit,Utah
+Fulton,Pennsylvania
+Rockingham,Virginia
+Edgecombe,North Carolina
+Maury,Tennessee
+Gilmer,Georgia
+Monroe,Michigan
+Washburn,Wisconsin
+Seneca,Ohio
+Cumberland,Virginia
+Vanderburgh,Indiana
+Hamilton,New York
+DeKalb,Tennessee
+St. Louis,Missouri
+McPherson,Kansas
+Logan,Nebraska
+Garrett,Maryland
+Lake,California
+Cook,Illinois
+Howard,Missouri
+Talbot,Georgia
+Johnson,Tennessee
+Door,Wisconsin
+Alameda,California
+Sussex,Delaware
+Cumberland,Pennsylvania
+Amherst,Virginia
+Woods,Oklahoma
+Columbia,Pennsylvania
+Sargent,North Dakota
+Minnehaha,South Dakota
+Meeker,Minnesota
+Venango,Pennsylvania
+Boone,Indiana
+Montgomery,New York
+Cerro Gordo,Iowa
+Providence,Rhode Island
+Salem city,Virginia
+Rock,Minnesota
+St. Clair,Illinois
+Androscoggin,Maine
+Deer Lodge,Montana
+Emmons,North Dakota
+Marion,Indiana
+Westmoreland,Pennsylvania
+Hyde,South Dakota
+Marshall,Minnesota
+Oldham,Kentucky
+Warren,Georgia
+Pierce,Georgia
+Polk,Missouri
+Pipestone,Minnesota
+Trimble,Kentucky
+Cameron,Louisiana
+Milam,Texas
+Lincoln,North Carolina
+Unknown,Puerto Rico
+Appanoose,Iowa
+Okaloosa,Florida
+Hampton,South Carolina
+Cass,Minnesota
+Overton,Tennessee
+Rush,Indiana
+Clarendon,South Carolina
+Lincoln,Colorado
+Marshall,West Virginia
+Breckinridge,Kentucky
+Houghton,Michigan
+Macon,Alabama
+Guthrie,Iowa
+Hardin,Iowa
+Watonwan,Minnesota
+Yoakum,Texas
+Morris,Kansas
+Nacogdoches,Texas
+Highlands,Florida
+DeSoto,Mississippi
+Warren,North Carolina
+Live Oak,Texas
+Wilson,Tennessee
+Adair,Oklahoma
+Harrison,West Virginia
+Grant,West Virginia
+Howard,Maryland
+Perquimans,North Carolina
+Benton,Oregon
+Miami,Kansas
+Lafayette,Florida
+Stone,Missouri
+Pend Oreille,Washington
+Henry,Iowa
+Nye,Nevada
+Quitman,Georgia
+Ravalli,Montana
+Weld,Colorado
+Brown,Texas
+Flagler,Florida
+Palm Beach,Florida
+Kosciusko,Indiana
+Pasquotank,North Carolina
+Calhoun,Texas
+Hutchinson,Texas
+Chase,Kansas
+Wayne,Pennsylvania
+Marion,Mississippi
+Cleveland,Arkansas
+Nueces,Texas
+St. Landry,Louisiana
+Sequoyah,Oklahoma
+Pulaski,Kentucky
+Oconee,Georgia
+Weakley,Tennessee
+Scott,Indiana
+Seward,Kansas
+Buchanan,Missouri
+Worcester,Maryland
+Madison,Alabama
+Apache,Arizona
+Winston,Alabama
+Barbour,West Virginia
+Alamance,North Carolina
+Ashtabula,Ohio
+Fulton,Kentucky
+Love,Oklahoma
+Jefferson,Kansas
+Logan,Colorado
+Baker,Georgia
+Kent,Maryland
+Maries,Missouri
+Lee,Alabama
+Unknown,Georgia
+Brazoria,Texas
+Daviess,Missouri
+Washington,Louisiana
+Barton,Kansas
+Perry,Illinois
+Montgomery,Kentucky
+Surry,Virginia
+Lincoln,Washington
+Columbiana,Ohio
+Dakota,Nebraska
+Oregon,Missouri
+Victoria,Texas
+Thurston,Washington
+Dimmit,Texas
+Penobscot,Maine
+Shelby,Texas
+Pasco,Florida
+Windham,Vermont
+Saline,Arkansas
+Geary,Kansas
+Webster,Georgia
 San Jacinto,Texas
-McKinley,New Mexico
+Bonneville,Idaho
+Marion,Alabama
+Sauk,Wisconsin
+Unknown,Nevada
+Barrow,Georgia
+Erie,New York
+West Carroll,Louisiana
+Jefferson,Iowa
+Chattahoochee,Georgia
+Chittenden,Vermont
+Finney,Kansas
+Sherman,Oregon
+Kent,Delaware
+Bonner,Idaho
+Snyder,Pennsylvania
+Henderson,North Carolina
+Mercer,Illinois
+Ketchikan Gateway Borough,Alaska
+Bibb,Alabama
+Lexington city,Virginia
+Alcorn,Mississippi
+Young,Texas
+Mercer,New Jersey
+Madison,Georgia
+Prince of Wales-Hyder Census Area,Alaska
+Kansas City,Missouri
+Costilla,Colorado
+Colusa,California
+Riley,Kansas
+Forest,Pennsylvania
+Sioux,Iowa
+Converse,Wyoming
+Hardin,Ohio
+Multnomah,Oregon
+Posey,Indiana
+Madera,California
+Davison,South Dakota
+East Feliciana,Louisiana
+Sullivan,Tennessee
+Suffolk city,Virginia
+Elmore,Idaho
+Lauderdale,Mississippi
+Franklin,Washington
+Kearney,Nebraska
+Adams,Washington
+Prince Edward,Virginia
+Marathon,Wisconsin
+Smith,Mississippi
+Richland,Louisiana
+Appomattox,Virginia
+McLeod,Minnesota
+Alcona,Michigan
+Lincoln,Wyoming
+Amador,California
+Knott,Kentucky
+Wallowa,Oregon
+Shelby,Illinois
+Tulsa,Oklahoma
+Hardy,West Virginia
+Jersey,Illinois
+Cheshire,New Hampshire
+Murray,Oklahoma
+Logan,Kentucky
+Brunswick,North Carolina
+Seneca,New York
+Tuscaloosa,Alabama
+Monroe,Florida
+Henry,Ohio
+Huntington,Indiana
+Coos,New Hampshire
+Baxter,Arkansas
+Trumbull,Ohio
+Butte,California
+Rensselaer,New York
+Butte,South Dakota
+Crow Wing,Minnesota
+Adair,Missouri
+Raleigh,West Virginia
+Bacon,Georgia
+Pearl River,Mississippi
+King and Queen,Virginia
+Taylor,Iowa
+Alpine,California
+Greene,Ohio
+Carroll,Virginia
+Robertson,Tennessee
+Butler,Pennsylvania
+Jackson,Arkansas
+Lincoln,Oregon
+Lincoln,Kentucky
+Cambria,Pennsylvania
+Cumberland,North Carolina
+Ramsey,North Dakota
+Eagle,Colorado
+Cumberland,Maine
+Centre,Pennsylvania
+Sumter,Florida
+Mason,West Virginia
+Pottawattamie,Iowa
+Cherokee,Texas
+Asotin,Washington
+Uinta,Wyoming
+Jefferson,Georgia
+Sherburne,Minnesota
+Geneva,Alabama
+Grant,North Dakota
+Unknown,North Dakota
+Williamson,Illinois
+Washington,Rhode Island
+Pike,Arkansas
+Ionia,Michigan
+Dixie,Florida
+Gulf,Florida
+Lucas,Ohio
+Brookings,South Dakota
+Koochiching,Minnesota
+Kittson,Minnesota
+Pennington,South Dakota
+Ohio,Kentucky
+Waushara,Wisconsin
+Ripley,Missouri
+Miller,Georgia
+Calhoun,Alabama
+Laurens,Georgia
+Andrews,Texas
+Halifax,Virginia
+Montgomery,Iowa
+Sanilac,Michigan
+Chesterfield,South Carolina
+Pitkin,Colorado
+Lee,South Carolina
+Madison,Texas
+Cheatham,Tennessee
+Sharkey,Mississippi
+Hall,Nebraska
+St. Croix,Wisconsin
+Franklin,Florida
+Monongalia,West Virginia
+Jennings,Indiana
+Blanco,Texas
+Hillsborough,New Hampshire
+McIntosh,Georgia
+Buchanan,Virginia
+Jasper,Texas
+Union,South Carolina
+Benton,Missouri
+Allen,Ohio
+Mills,Iowa
+Howard,Nebraska
+Barbour,Alabama
+Bradley,Arkansas
+Aurora,South Dakota
+Desha,Arkansas
+Adams,Illinois
+Knox,Illinois
+Greer,Oklahoma
+Rolette,North Dakota
+McHenry,North Dakota
+Pendleton,Kentucky
+Emanuel,Georgia
+Glades,Florida
+Unknown,Guam
+Jefferson,Arkansas
+Robeson,North Carolina
+Pickens,South Carolina
+Dewey,Oklahoma
+Scott,Kentucky
+Chelan,Washington
+Mitchell,Kansas
+Lonoke,Arkansas
+Parke,Indiana
+Clay,Texas
+Wagoner,Oklahoma
+Northumberland,Pennsylvania
+Vigo,Indiana
+Conway,Arkansas
+Union,South Dakota
+Grant,New Mexico
+Upshur,Texas
+Caldwell,Kentucky
+Placer,California
+Boone,Kentucky
+Unknown,Maryland
+Calhoun,Georgia
+Morgan,Ohio
+Stephens,Georgia
+Sutter,California
+Huerfano,Colorado
+Clay,Indiana
+Unknown,Minnesota
+Columbia,Georgia
+White,Tennessee
+Erie,Pennsylvania
+Craig,Oklahoma
+Champaign,Illinois
+Jewell,Kansas
+Schuyler,New York
+Unknown,California
+Cecil,Maryland
+Northampton,Pennsylvania
+Craig,Virginia
+Clark,Missouri
+Jasper,Illinois
+Bourbon,Kansas
+Drew,Arkansas
+Washington,Alabama
+Union,Illinois
+Presque Isle,Michigan
+Valley,Idaho
+Aroostook,Maine
+Goodhue,Minnesota
+Pulaski,Illinois
+Washington,Nebraska
+Brule,South Dakota
+Cabell,West Virginia
+Greene,Iowa
+Chambers,Texas
+St. Francois,Missouri
+Mathews,Virginia
+Allen,Louisiana
+Polk,Georgia
+Gosper,Nebraska
+Forsyth,North Carolina
+Marlboro,South Carolina
+Wake,North Carolina
+District of Columbia,District of Columbia
+Clay,Nebraska
+Rapides,Louisiana
+Smith,Tennessee
+Taos,New Mexico
+Custer,Colorado
+Wayne,West Virginia
+Crawford,Kansas
+Union,Florida
+San Miguel,New Mexico
+White,Arkansas
+Hancock,Georgia
+Graham,Arizona
+Bledsoe,Tennessee
+Tulare,California
+Johnson,Wyoming
+Burke,North Carolina
+Newport,Rhode Island
+Woodbury,Iowa
+Clark,Illinois
+Nevada,California
+Washington,Oregon
+Lorain,Ohio
+Chesterfield,Virginia
+Renville,Minnesota
+Putnam,Florida
+Stewart,Georgia
+Unicoi,Tennessee
+Suffolk,New York
+Carbon,Montana
+Lake,Montana
+Mecklenburg,North Carolina
+Lyon,Minnesota
+Gasconade,Missouri
+Pierce,Washington
+Yazoo,Mississippi
+Chester,Pennsylvania
+Lewis,Tennessee
+Randolph,Alabama
+Trinity,Texas
+Wayne,New York
+Lewis and Clark,Montana
+St. Bernard,Louisiana
+Troup,Georgia
+Burleigh,North Dakota
+Jackson,Georgia
+Hardee,Florida
+Milwaukee,Wisconsin
+Logan,Ohio
+Sebastian,Arkansas
+St. Johns,Florida
+Henry,Kentucky
+Escambia,Florida
+Bertie,North Carolina
+Burke,North Dakota
+San Francisco,California
 Winnebago,Illinois
 Highland,Ohio
-Darlington,South Carolina
-Dunn,Wisconsin
-Erie,New York
-Ward,North Dakota
-Thurston,Washington
-Sanilac,Michigan
-Hardin,Texas
-Montezuma,Colorado
-Macon,Alabama
-Tuolumne,California
-Montgomery,Alabama
-Winston,Alabama
-Hamilton,Nebraska
-Wabash,Indiana
-Baltimore city,Maryland
-Curry,New Mexico
-Bedford,Virginia
-Hempstead,Arkansas
-Crawford,Pennsylvania
-Christian,Missouri
-Lee,Alabama
-Scott,Iowa
-Lyman,South Dakota
-Portage,Ohio
-Van Wert,Ohio
-Franklin,Tennessee
-Monroe,Mississippi
-Carroll,Iowa
-Lincoln,Montana
-Plaquemines,Louisiana
-James City,Virginia
-Wake,North Carolina
-St. Croix,Wisconsin
-Tippah,Mississippi
-Jackson,Oregon
-Rockland,New York
-Elkhart,Indiana
-Hancock,Iowa
-Warren,Indiana
-Marshall,Tennessee
-Midland,Texas
-Texas,Oklahoma
-Burleson,Texas
-Garrett,Maryland
-Union,South Carolina
-Buchanan,Missouri
-Cass,Nebraska
-Clark,Illinois
-Santa Barbara,California
-Leon,Texas
-Unknown,Virgin Islands
-St. Lucie,Florida
-Harrisonburg city,Virginia
-Franklin,New York
-East Baton Rouge,Louisiana
-Benton,Minnesota
-Talbot,Maryland
-Macon,Illinois
-Jefferson,Montana
-Marshall,West Virginia
-Pointe Coupee,Louisiana
-Trumbull,Ohio
-Goochland,Virginia
-Vermillion,Indiana
-Newton,Arkansas
-Columbia,Florida
-Effingham,Georgia
-Pennington,South Dakota
-Spartanburg,South Carolina
-Mower,Minnesota
-Fremont,Colorado
-Union,Kentucky
-Gove,Kansas
-Steele,Minnesota
-Habersham,Georgia
-Washington,Rhode Island
-Caledonia,Vermont
-Karnes,Texas
-Union,North Carolina
-Chesterfield,South Carolina
-Person,North Carolina
-Randall,Texas
-Kalamazoo,Michigan
-McDonald,Missouri
-Clark,Arkansas
-Wapello,Iowa
-Morehouse,Louisiana
-Perry,Pennsylvania
-Columbia,Arkansas
-Webb,Texas
-Hinds,Mississippi
-Hampton city,Virginia
-Unknown,Utah
-Marquette,Wisconsin
-Buchanan,Iowa
-Osage,Oklahoma
-Iroquois,Illinois
-Glenn,California
-Latimer,Oklahoma
-Chesapeake city,Virginia
-Graham,Arizona
-Lincoln,Washington
-Winona,Minnesota
-Beadle,South Dakota
-Adams,Colorado
-Franklin,Kentucky
-Adams,Mississippi
-Platte,Nebraska
-Garvin,Oklahoma
-Cannon,Tennessee
-Iredell,North Carolina
-Swisher,Texas
-Lapeer,Michigan
-Schenectady,New York
-Montgomery,Mississippi
-Durham,North Carolina
-Warren,New York
-Whatcom,Washington
-Nye,Nevada
-Palm Beach,Florida
-Marshall,Kentucky
-Sussex,Delaware
-Douglas,Oregon
-Pickens,South Carolina
-Ozaukee,Wisconsin
-Taos,New Mexico
-Guthrie,Iowa
-Garland,Arkansas
-Mercer,West Virginia
-Madison,Ohio
+Greene,Illinois
 Pierce,Wisconsin
-Monroe,Georgia
-Young,Texas
-Martin,Florida
-Lewis and Clark,Montana
-Austin,Texas
-Linn,Iowa
-Albany,Wyoming
-Henderson,Kentucky
-Stanislaus,California
-Cheboygan,Michigan
-Waldo,Maine
-Grayson,Kentucky
-Calvert,Maryland
-Lafourche,Louisiana
-Columbiana,Ohio
-Union,Pennsylvania
-Cullman,Alabama
-Teller,Colorado
-Fayette,Ohio
-Crawford,Kansas
-Clinch,Georgia
-White,Arkansas
-McLean,Illinois
-Richland,Wisconsin
-Bryan,Oklahoma
-Bertie,North Carolina
-Bradley,Arkansas
-Dunn,North Dakota
-Orange,California
-Adams,Illinois
-Clay,Missouri
-Gilmer,Georgia
-Grayson,Texas
-Hale,Alabama
-Collier,Florida
-Niagara,New York
-Barry,Michigan
-Baca,Colorado
-Bristol city,Virginia
-Jefferson,West Virginia
-Floyd,Indiana
-Santa Fe,New Mexico
-Jackson,North Carolina
-Franklin,Washington
-Hardin,Iowa
-St. James,Louisiana
-Middlesex,New Jersey
-East Carroll,Louisiana
-Iron,Utah
-Davison,South Dakota
-Columbia,Wisconsin
-Sangamon,Illinois
-Franklin,Missouri
-Grady,Oklahoma
-Jessamine,Kentucky
-Marion,Ohio
-Neshoba,Mississippi
+Clark,South Dakota
 Butler,Kentucky
-Defiance,Ohio
-Gila,Arizona
-St. Mary's,Maryland
-Lincoln,Colorado
-Penobscot,Maine
-Monmouth,New Jersey
-Wood,West Virginia
-Multnomah,Oregon
-Drew,Arkansas
-Craig,Oklahoma
-Okmulgee,Oklahoma
-Nacogdoches,Texas
-Monroe,Tennessee
-Jennings,Indiana
-Johnson,Iowa
-Isle of Wight,Virginia
-Pima,Arizona
-Allen,Louisiana
-Dutchess,New York
-Morgan,Illinois
-Tom Green,Texas
-Le Flore,Oklahoma
-Berkeley,South Carolina
-Boone,Arkansas
-Unknown,New Jersey
-Smyth,Virginia
-Northampton,Virginia
-Waukesha,Wisconsin
-Olmsted,Minnesota
-Cerro Gordo,Iowa
-San Luis Obispo,California
-Lincoln,Maine
-Page,Iowa
-Okanogan,Washington
-Miami,Indiana
-San Diego,California
-Sherburne,Minnesota
-Garfield,Utah
-Marshall,Iowa
-Madison,Virginia
-St. Clair,Alabama
-Seminole,Georgia
-Calhoun,Mississippi
-Delta,Colorado
-Washington,Iowa
-Gadsden,Florida
-Pike,Alabama
-Kit Carson,Colorado
-Sublette,Wyoming
-Darke,Ohio
-Abbeville,South Carolina
-Ashtabula,Ohio
-Walla Walla,Washington
-Frederick,Virginia
-Juniata,Pennsylvania
-Raleigh,West Virginia
-Hood River,Oregon
-Norfolk city,Virginia
-Falls,Texas
-Charlton,Georgia
-Washington,Utah
-Johnson,Indiana
-New Hanover,North Carolina
-Bibb,Georgia
-Covington,Alabama
-Jackson,Wisconsin
-Siskiyou,California
-Eddy,New Mexico
-Turner,South Dakota
-Imperial,California
-Orleans,Vermont
-Burke,North Carolina
-Clark,Washington
-Jefferson,Missouri
-Callaway,Missouri
-Clark,Ohio
-Valencia,New Mexico
-Holmes,Florida
-Tunica,Mississippi
-Howard,Indiana
-Richland,Louisiana
-Box Elder,Utah
-Bradford,Pennsylvania
-Gaines,Texas
-Hamilton,Ohio
-Delaware,New York
-Mitchell,Kansas
-Dickinson,Iowa
-Pierce,Washington
-Danville city,Virginia
-Onslow,North Carolina
-Greene,Georgia
-Baxter,Arkansas
-Lamar,Alabama
-Calhoun,Georgia
-East Feliciana,Louisiana
-Richland,South Carolina
-Genesee,Michigan
-Wilkin,Minnesota
-Amador,California
-Cleburne,Alabama
-Coosa,Alabama
-Appanoose,Iowa
-Pleasants,West Virginia
-Cooper,Missouri
-Wilson,Texas
-Somerset,New Jersey
-Washington,Arkansas
-Natrona,Wyoming
-Unknown,Colorado
-Harris,Georgia
-Burke,Georgia
-Lowndes,Alabama
-Solano,California
-Escambia,Florida
+Fannin,Texas
+Johnson,Illinois
+Kodiak Island Borough,Alaska
+Nemaha,Nebraska
 Arkansas,Arkansas
-McHenry,Illinois
-Overton,Tennessee
-Evangeline,Louisiana
-Bon Homme,South Dakota
-Wheeler,Georgia
-Vance,North Carolina
-Douglas,Illinois
-Houston,Georgia
-Russell,Alabama
-Waller,Texas
-Lafayette,Mississippi
-Tama,Iowa
-Stearns,Minnesota
-Lake,Montana
-Baldwin,Georgia
-Essex,New Jersey
-Morgan,Colorado
-Rutherford,North Carolina
-Manistee,Michigan
-Taylor,Georgia
-Stark,North Dakota
-Jasper,South Carolina
-Toombs,Georgia
-Ware,Georgia
-Costilla,Colorado
-Richmond,Georgia
-Atchison,Kansas
-Clay,Kansas
-Denton,Texas
-White,Tennessee
-Randolph,Georgia
-Lamar,Mississippi
-Chisago,Minnesota
-Unknown,Maine
-Berkshire,Massachusetts
-Alpine,California
-Peach,Georgia
-St. Mary,Louisiana
-Sagadahoc,Maine
-Owen,Indiana
-Prince George's,Maryland
-Greene,Tennessee
-Riverside,California
-Jefferson,Louisiana
-Poquoson city,Virginia
-Muskingum,Ohio
-Eastland,Texas
-Yuma,Arizona
-Guilford,North Carolina
-Haralson,Georgia
-Andrews,Texas
-Kosciusko,Indiana
-Starke,Indiana
-Wyandotte,Kansas
-Carter,Oklahoma
-Talbot,Georgia
-Contra Costa,California
-Big Stone,Minnesota
-El Paso,Texas
-Barry,Missouri
-Clinton,New York
-Pontotoc,Mississippi
-Cass,Texas
-Kemper,Mississippi
-Blaine,Idaho
-Clare,Michigan
-Carter,Missouri
-Walker,Texas
-St. Charles,Louisiana
-Fayette,Georgia
-Charlottesville city,Virginia
-Angelina,Texas
-Madison,Mississippi
-Sutter,California
-Bureau,Illinois
-Columbus,North Carolina
-Preston,West Virginia
-Huerfano,Colorado
-Hampden,Massachusetts
-Mason,West Virginia
-Mathews,Virginia
-Sweetwater,Wyoming
-Sampson,North Carolina
-Huron,Michigan
-Sauk,Wisconsin
-Champaign,Ohio
-Mercer,Ohio
-Hamblen,Tennessee
-Douglas,Wisconsin
-Waupaca,Wisconsin
-Obion,Tennessee
-Hillsborough,New Hampshire
-Limestone,Alabama
-Jones,Mississippi
-Ontario,New York
-Newton,Missouri
-Stanly,North Carolina
-Val Verde,Texas
-Tipton,Tennessee
-Fulton,Georgia
-Madison,Georgia
-Moore,Texas
-Menard,Illinois
-Brown,Wisconsin
-Windham,Vermont
-Macon,Tennessee
-Pierce,North Dakota
-Lorain,Ohio
-Cass,North Dakota
-Montgomery,Tennessee
-Summit,Utah
-Martin,Minnesota
-Knox,Ohio
-Adams,Washington
-Hamilton,Indiana
-Elmore,Idaho
-Brown,Indiana
-Hughes,South Dakota
-Long,Georgia
-Custer,Idaho
-Pasco,Florida
-Lamar,Texas
-Rapides,Louisiana
-Henry,Georgia
-Unknown,Florida
-Clarion,Pennsylvania
-Jefferson,New York
-Henderson,Texas
-Dawson,Nebraska
-Hart,Georgia
-Assumption,Louisiana
-Taylor,Kentucky
-Lonoke,Arkansas
-Kennebec,Maine
-Grundy,Illinois
-Santa Clara,California
-Toole,Montana
-Unknown,Nevada
-Vilas,Wisconsin
-Claiborne,Tennessee
-Lynchburg city,Virginia
-Adair,Iowa
-Mesa,Colorado
-Greensville,Virginia
-Clearfield,Pennsylvania
-Cleburne,Arkansas
-Cass,Minnesota
-Butts,Georgia
-Carbon,Wyoming
-Walworth,Wisconsin
-Champaign,Illinois
-Fairfax city,Virginia
-DeKalb,Illinois
-Jackson,Illinois
-Montgomery,Pennsylvania
-Skamania,Washington
-Mitchell,Georgia
-Wright,Minnesota
-Kaufman,Texas
-Clarendon,South Carolina
-Lehigh,Pennsylvania
-Richmond,North Carolina
-McLean,North Dakota
-Roane,West Virginia
-Escambia,Alabama
-Allen,Indiana
-Randolph,North Carolina
-Marion,West Virginia
-Reno,Kansas
-Cumberland,New Jersey
-Webster,Iowa
-Maricopa,Arizona
-Polk,Oregon
-McCook,South Dakota
-Lawrence,Tennessee
-St. Landry,Louisiana
-Stevens,Washington
-Barrow,Georgia
-Hancock,Indiana
-Grand Forks,North Dakota
-Culpeper,Virginia
-Wexford,Michigan
-Chilton,Alabama
-Oldham,Texas
-Carroll,Indiana
-Jasper,Indiana
-Vermilion,Louisiana
-Apache,Arizona
-Leavenworth,Kansas
-Bladen,North Carolina
-Hendry,Florida
-Oliver,North Dakota
-Beltrami,Minnesota
-Tulsa,Oklahoma
-Gem,Idaho
-Unknown,Connecticut
-Perry,Arkansas
-Christian,Kentucky
-Perry,Mississippi
-Greene,New York
-Somerset,Maine
-Marshall,Alabama
-Vernon,Louisiana
-Washoe,Nevada
-Twin Falls,Idaho
-Cole,Missouri
-Queen Anne's,Maryland
-Union,New Jersey
-Franklin,Alabama
-Nantucket,Massachusetts
-Fountain,Indiana
-Georgetown,South Carolina
-Desha,Arkansas
-Camden,Missouri
-Grimes,Texas
-Cobb,Georgia
-Maui,Hawaii
-Greenville,South Carolina
-Bollinger,Missouri
-Klickitat,Washington
-Dallas,Texas
-Dodge,Georgia
-Morgan,Missouri
-Pearl River,Mississippi
-Wicomico,Maryland
-Edgecombe,North Carolina
-Fredericksburg city,Virginia
-Harrison,Kentucky
-Hancock,Ohio
-Monroe,Michigan
-Bledsoe,Tennessee
-Botetourt,Virginia
-Carroll,Ohio
-Crittenden,Arkansas
-Williamsburg,South Carolina
-Fulton,Indiana
-Orange,Florida
-Jackson,Texas
-Brooks,Georgia
-Bristol,Massachusetts
-Orangeburg,South Carolina
-Sullivan,Indiana
-Jefferson,Arkansas
-Greenwood,South Carolina
-Monterey,California
-Winn,Louisiana
-Simpson,Kentucky
-Randolph,Indiana
-Jefferson,Tennessee
-Macomb,Michigan
-Alexandria city,Virginia
-Glades,Florida
-Scott,Indiana
-Miami,Kansas
-Saluda,South Carolina
-Columbia,Washington
-Sandusky,Ohio
-Alleghany,Virginia
-Hopkins,Texas
-Butte,California
-Jefferson Davis,Louisiana
-Rock Island,Illinois
-Holmes,Mississippi
-Tioga,New York
-Gosper,Nebraska
-Knox,Nebraska
-Marathon,Wisconsin
-Randolph,Illinois
-Perquimans,North Carolina
-Renville,Minnesota
-Allegheny,Pennsylvania
-Woodford,Illinois
-Douglas,Minnesota
-Oakland,Michigan
-Jackson,Missouri
-Hudson,New Jersey
-Rio Arriba,New Mexico
-Yuba,California
-Posey,Indiana
-Deer Lodge,Montana
-Hopkins,Kentucky
-Grafton,New Hampshire
-St. Tammany,Louisiana
-Harrison,Iowa
-Mecosta,Michigan
-Blanco,Texas
-Benton,Mississippi
-Orange,Indiana
-Ketchikan Gateway Borough,Alaska
-Cecil,Maryland
-Bulloch,Georgia
-Dawson,Texas
-Pittsburg,Oklahoma
-Jackson,Louisiana
-Beaufort,North Carolina
-Watonwan,Minnesota
-Chatham,North Carolina
-Halifax,North Carolina
-Cabarrus,North Carolina
-Kenosha,Wisconsin
-Cameron,Texas
-White,Georgia
-Hamlin,South Dakota
-Sharkey,Mississippi
-Jackson,Kansas
-Madera,California
-Nevada,California
-Boone,Kentucky
-Crowley,Colorado
-Itasca,Minnesota
-Tipton,Indiana
-Winston,Mississippi
-Auglaize,Ohio
-Humboldt,Nevada
-Jefferson,Texas
-Ascension,Louisiana
-Jasper,Georgia
-Polk,Arkansas
-Kittitas,Washington
-Ottawa,Oklahoma
-Onondaga,New York
-Nelson,Kentucky
-Winchester city,Virginia
-Covington,Mississippi
-Fulton,New York
-Wabasha,Minnesota
-Forsyth,Georgia
-Cameron,Pennsylvania
-Benton,Tennessee
-Buffalo,Nebraska
-Elmore,Alabama
-Fentress,Tennessee
-Hennepin,Minnesota
-Ottawa,Kansas
-Fillmore,Minnesota
-Merced,California
-Gladwin,Michigan
-Garfield,Oklahoma
-Otter Tail,Minnesota
-Carroll,Maryland
-Johnston,North Carolina
-Pike,Mississippi
-Grant,Oregon
-Maverick,Texas
-Cumberland,Illinois
-Dakota,Minnesota
-Montrose,Colorado
-Orleans,New York
-Coshocton,Ohio
-Larue,Kentucky
+Jones,Iowa
 Santa Cruz,Arizona
-Moniteau,Missouri
-Douglas,Nebraska
-Macon,Georgia
-Bryan,Georgia
-Grant,Louisiana
-Missoula,Montana
-Schoharie,New York
-Mineral,Colorado
-Mono,California
-Tioga,Pennsylvania
-Cache,Utah
-Clay,Minnesota
-Scott,Missouri
-Ionia,Michigan
-Kleberg,Texas
-Pulaski,Arkansas
-Bay,Florida
-Bullock,Alabama
-Robeson,North Carolina
-Ray,Missouri
-Shasta,California
-Wharton,Texas
-Chautauqua,New York
-Spalding,Georgia
-Columbia,New York
-Yamhill,Oregon
-Greene,Indiana
-Silver Bow,Montana
-Carteret,North Carolina
-Fayette,Iowa
-Calumet,Wisconsin
-Dallas,Iowa
-Sheboygan,Wisconsin
-Pulaski,Georgia
-Jim Wells,Texas
-Polk,Texas
-Washington,Texas
-Colleton,South Carolina
-Rush,Indiana
-Montgomery,Virginia
-York,Pennsylvania
-Douglas,Kansas
-Pope,Arkansas
-Ralls,Missouri
-Henry,Tennessee
-Union,Mississippi
-Union,Arkansas
-Montgomery,Maryland
-Crane,Texas
-Hernando,Florida
-Unknown,Mississippi
-Hot Springs,Wyoming
-Amherst,Virginia
-Orange,New York
-Grand,Colorado
-Williamson,Texas
-Bristol,Rhode Island
-Lavaca,Texas
-Sarpy,Nebraska
-Greene,Alabama
-Cleveland,Arkansas
-Ben Hill,Georgia
-Jackson,Minnesota
-Livingston,New York
-Claiborne,Louisiana
-Unknown,Georgia
-Hutchinson,South Dakota
-Boyd,Kentucky
-Chambers,Texas
-Goshen,Wyoming
-Gaston,North Carolina
-Madison,Montana
-Shelby,Ohio
-Wagoner,Oklahoma
-Valley,Idaho
-Harrison,West Virginia
-Allegan,Michigan
-La Paz,Arizona
-Davidson,Tennessee
-Adams,Pennsylvania
-Knox,Maine
-Tate,Mississippi
-Pitt,North Carolina
-Morgan,West Virginia
-Webster,Mississippi
-Bracken,Kentucky
-San Bernardino,California
-Unknown,Arkansas
-Wayne,Indiana
-Christian,Illinois
-Clark,Kentucky
-Unknown,Northern Mariana Islands
-Gloucester,Virginia
-St. Bernard,Louisiana
-Kandiyohi,Minnesota
-Vigo,Indiana
-Carroll,Georgia
-Montgomery,New York
-Charles,Maryland
-Lauderdale,Alabama
-Ashland,Ohio
-Mahoning,Ohio
-McIntosh,Georgia
-Jefferson,Kentucky
-Ferry,Washington
-Warren,Kentucky
-Berkeley,West Virginia
-Banks,Georgia
-Talladega,Alabama
-Baldwin,Alabama
-Shelby,Missouri
-Meigs,Tennessee
-Switzerland,Indiana
-Lowndes,Mississippi
-Sacramento,California
-Hancock,West Virginia
-Natchitoches,Louisiana
-McCracken,Kentucky
-Monroe,Indiana
-Catahoula,Louisiana
-Union,Tennessee
-New London,Connecticut
-Nottoway,Virginia
-Kauai,Hawaii
-Liberty,Georgia
-Faulkner,Arkansas
-Shiawassee,Michigan
-Cooke,Texas
-Bexar,Texas
-Noble,Indiana
-Montgomery,Kansas
-Alamosa,Colorado
-Victoria,Texas
-Susquehanna,Pennsylvania
-Quitman,Mississippi
-Hall,Georgia
-St. Louis,Minnesota
-Warren,Mississippi
-Kent,Michigan
-Klamath,Oregon
-Flathead,Montana
-York,Maine
-Cumberland,North Carolina
-Tattnall,Georgia
-Bernalillo,New Mexico
-Bannock,Idaho
-Crisp,Georgia
-Caldwell,North Carolina
-Dodge,Minnesota
-Gogebic,Michigan
-Steuben,Indiana
-Horry,South Carolina
-Warrick,Indiana
-Middlesex,Massachusetts
-Wayne,Michigan
-Daviess,Kentucky
-Orleans,Louisiana
-Charles Mix,South Dakota
-Delaware,Oklahoma
-Neosho,Kansas
-Socorro,New Mexico
-Gallatin,Montana
-Arlington,Virginia
-Meeker,Minnesota
-Hancock,Mississippi
-Shelby,Iowa
-Ogemaw,Michigan
-Houston,Alabama
-Carroll,Mississippi
-Rockingham,New Hampshire
-Morris,Kansas
-Cherokee,Kansas
-Lowndes,Georgia
-Le Sueur,Minnesota
+St. Helena,Louisiana
 Caddo,Louisiana
-Essex,New York
-Henry,Illinois
-Walthall,Mississippi
-Monongalia,West Virginia
-Pottawatomie,Oklahoma
-Cape May,New Jersey
-Rockbridge,Virginia
-Warren,New Jersey
-Livingston,Michigan
-Tucker,West Virginia
-Madison,Indiana
-Berks,Pennsylvania
-Tompkins,New York
-Monroe,Florida
-Pasquotank,North Carolina
-Crawford,Illinois
-Allegany,New York
-Rockingham,Virginia
-Elbert,Colorado
-Riley,Kansas
-Putnam,West Virginia
-Blair,Pennsylvania
-Indian River,Florida
-Teton,Idaho
-Morris,Texas
-Harvey,Kansas
-Lawrence,Arkansas
-Lincoln,Mississippi
+Campbell,Virginia
+Poinsett,Arkansas
+Copiah,Mississippi
+Washita,Oklahoma
+Malheur,Oregon
+Stephens,Texas
+Yuma,Arizona
+Osage,Kansas
+Routt,Colorado
+Jasper,Iowa
+Chatham,Georgia
+Long,Georgia
+Scott,Minnesota
+Iron,Utah
+Cuyahoga,Ohio
+Fairfax city,Virginia
+Bingham,Idaho
+Crockett,Tennessee
+Grand,Colorado
+Branch,Michigan
+Webb,Texas
+Jackson,Alabama
+Kay,Oklahoma
+Caswell,North Carolina
+Craven,North Carolina
+Osage,Missouri
+Austin,Texas
 Whitfield,Georgia
-Foster,North Dakota
-Beaver,Pennsylvania
-Adair,Missouri
-Winneshiek,Iowa
-Crawford,Indiana
-Calhoun,Alabama
-Lincoln,Georgia
-Lake,Ohio
-Williamson,Illinois
-Clermont,Ohio
-Lebanon,Pennsylvania
-Nez Perce,Idaho
-Ripley,Missouri
-Jones,Georgia
-Howard,Maryland
-Mercer,Pennsylvania
-Cherokee,North Carolina
-Lincoln,Arkansas
-Davis,Utah
-Hinsdale,Colorado
-Bond,Illinois
-Herkimer,New York
-Fayette,Indiana
-Roanoke city,Virginia
-Calloway,Kentucky
-Spencer,Kentucky
-Washington,Illinois
-Armstrong,Pennsylvania
-Monroe,Alabama
-Umatilla,Oregon
-Van Buren,Iowa
-Muskegon,Michigan
-Lamb,Texas
-Union,Ohio
-Iowa,Wisconsin
-McHenry,North Dakota
-Hillsborough,Florida
-Norfolk,Massachusetts
-Elko,Nevada
-Lee,South Carolina
-Hood,Texas
-Montgomery,Ohio
-Jefferson,Ohio
-Meriwether,Georgia
-Castro,Texas
-Washington,Louisiana
-Dukes,Massachusetts
-Baker,Georgia
-Muscogee,Georgia
-Ottawa,Ohio
-Cabell,West Virginia
-Utah,Utah
-Shelby,Texas
-Black Hawk,Iowa
-Poweshiek,Iowa
-Davie,North Carolina
-Montgomery,Kentucky
-Sibley,Minnesota
-Decatur,Tennessee
-Butler,Alabama
-Cambria,Pennsylvania
-Caldwell,Texas
-Stephens,Georgia
-Lycoming,Pennsylvania
-Platte,Missouri
-Lauderdale,Mississippi
-Sussex,New Jersey
-York,Nebraska
-Powhatan,Virginia
-Sioux,North Dakota
-Monroe,New York
-Laurens,South Carolina
-Bibb,Alabama
-Antrim,Michigan
-Wakulla,Florida
-Lincoln,Oklahoma
-Moore,North Carolina
-Erath,Texas
-Kane,Illinois
-Anne Arundel,Maryland
-Marion,Oregon
-St. Louis,Missouri
-Fauquier,Virginia
-Bastrop,Texas
-Sumner,Tennessee
-Clinton,Illinois
-Pike,Georgia
-Grant,Indiana
-Leake,Mississippi
-Stone,Arkansas
-Rutherford,Tennessee
-McLennan,Texas
-Lamar,Georgia
-Strafford,New Hampshire
-Adams,Nebraska
-Crawford,Ohio
-Huntington,Indiana
-Wilson,North Carolina
-New Haven,Connecticut
-Franklin,Louisiana
-Skagit,Washington
-Warren,Georgia
-Des Moines,Iowa
+Bay,Florida
+Pima,Arizona
+San Miguel,Colorado
+Lincoln,Maine
+Holmes,Ohio
+Kankakee,Illinois
+Inyo,California
+Hemphill,Texas
+Texas,Oklahoma
+Cherokee,Iowa
+San Augustine,Texas
+Kanawha,West Virginia
+Macon,North Carolina
+Banks,Georgia
+Bradford,Pennsylvania
+Linn,Missouri
+Morgan,Illinois
+Bucks,Pennsylvania
+Trousdale,Tennessee
+Lawrence,Mississippi
+Pike,Alabama
 Grant,Wisconsin
-Jeff Davis,Georgia
-Mercer,North Dakota
-Brown,South Dakota
-Moffat,Colorado
-El Dorado,California
-Cass,Missouri
-Windsor,Vermont
+St. Tammany,Louisiana
+Clayton,Georgia
+Anne Arundel,Maryland
+Wabaunsee,Kansas
+Dodge,Georgia
+Emery,Utah
+Tazewell,Virginia
+Dale,Alabama
+Westchester,New York
+Haskell,Kansas
+Allen,Kentucky
+Jefferson,Mississippi
+Jefferson,Missouri
+Klamath,Oregon
+Jefferson,Oregon
+Florence,South Carolina
+Jefferson,New York
+Edgefield,South Carolina
+Callaway,Missouri
+Loup,Nebraska
 Columbia,Oregon
-Unknown,Ohio
-Manassas Park city,Virginia
-Greenbrier,West Virginia
+Gratiot,Michigan
+Taylor,Texas
+Howell,Missouri
+Cumberland,Illinois
+Middlesex,Virginia
+Worcester,Massachusetts
+Franklin,North Carolina
+Okmulgee,Oklahoma
+DuPage,Illinois
+Huron,Michigan
+Slope,North Dakota
+Hall,Texas
+Osceola,Michigan
+White,Georgia
+Orange,Vermont
+Delaware,Indiana
+Jefferson,Wisconsin
+Daviess,Indiana
 Lawrence,Alabama
-Franklin,Maine
-Barnstable,Massachusetts
-Cotton,Oklahoma
-Oktibbeha,Mississippi
-Wasatch,Utah
-Nash,North Carolina
-Athens,Ohio
-Madison,Alabama
-Colusa,California
-Chemung,New York
-Merrimack,New Hampshire
-Calhoun,Michigan
-Turner,Georgia
-Perry,Tennessee
-Washington,Oklahoma
-St. Johns,Florida
-Ramsey,North Dakota
-Taney,Missouri
-Fayette,Alabama
-Oneida,New York
-Marion,Illinois
-Sioux,Iowa
-Harford,Maryland
-Bacon,Georgia
-Carroll,New Hampshire
-Fannin,Georgia
-Guadalupe,Texas
-Cattaraugus,New York
-Dodge,Nebraska
-Cocke,Tennessee
-Carbon,Pennsylvania
-Clay,South Dakota
-Roberts,South Dakota
-Kansas City,Missouri
-Johnson,Georgia
-Northampton,Pennsylvania
+Orange,Texas
+Hockley,Texas
+Freeborn,Minnesota
+McLean,Illinois
 Cherokee,Georgia
-Cherokee,Texas
-Placer,California
-Josephine,Oregon
+La Crosse,Wisconsin
+Ascension,Louisiana
+Dawson,Georgia
+Cheboygan,Michigan
+Dougherty,Georgia
+Unknown,Massachusetts
+Lauderdale,Alabama
+Caribou,Idaho
+Robertson,Texas
+Barnwell,South Carolina
+Divide,North Dakota
+Hamilton,Indiana
+Kendall,Texas
+Douglas,Minnesota
+Etowah,Alabama
+Camden,New Jersey
+Washington,Arkansas
+Lincoln,Tennessee
+Nash,North Carolina
+Yates,New York
+Leon,Florida
+Liberty,Florida
+Crook,Oregon
+Chester,South Carolina
+Doña Ana,New Mexico
+Cass,Indiana
+Sumter,Georgia
+York,Pennsylvania
+Kings,California
+Stokes,North Carolina
+Lamar,Alabama
+Fleming,Kentucky
+Rhea,Tennessee
+Ohio,West Virginia
+Bedford,Tennessee
+Carbon,Wyoming
+Ada,Idaho
+Washington,Oklahoma
+Alexander,Illinois
+Charlotte,Florida
+Izard,Arkansas
+Grays Harbor,Washington
+Union,Georgia
+Marquette,Wisconsin
+Pueblo,Colorado
+Hansford,Texas
+Lenoir,North Carolina
+Phelps,Missouri
+Chautauqua,Kansas
+Upshur,West Virginia
+Lee,Illinois
+Livingston,Illinois
+Lee,Arkansas
+Manistee,Michigan
+Harper,Oklahoma
+New York City,New York
+Medina,Texas
+Montgomery,Alabama
+Monroe,Georgia
+Goliad,Texas
+Kerr,Texas
+Reno,Kansas
+Minidoka,Idaho
+Lincoln,Minnesota
+Comal,Texas
+Chippewa,Michigan
+Defiance,Ohio
+Jefferson Davis,Mississippi
+Tunica,Mississippi
+New Kent,Virginia
+La Plata,Colorado
+Dickens,Texas
+Bradford,Florida
+Pulaski,Georgia
+Lawrence,Illinois
+Crawford,Ohio
+Carver,Minnesota
+Concordia,Louisiana
+Kaufman,Texas
+Menifee,Kentucky
+Crawford,Illinois
+Lawrence,Ohio
+Jefferson,Indiana
+Morrow,Ohio
+Panola,Texas
+Grant,Kentucky
+Harrison,Texas
+Stanislaus,California
+Red River,Louisiana
+LaSalle,Illinois
+Linn,Iowa
+Hood River,Oregon
+Paulding,Ohio
+Walworth,South Dakota
+Lea,New Mexico
+Decatur,Tennessee
+Kalamazoo,Michigan
+Cowley,Kansas
+Klickitat,Washington
+Pine,Minnesota
+Acadia,Louisiana
+Sanborn,South Dakota
+Catron,New Mexico
+Cass,Texas
+Pemiscot,Missouri
+Uvalde,Texas
+Calhoun,Illinois
+Houston,Georgia
+Moore,Texas
+Richland,Wisconsin
+Putnam,Indiana
+Covington,Alabama
+Richland,North Dakota
+Windham,Connecticut
+Sumner,Tennessee
+King George,Virginia
+Georgetown,South Carolina
+Perry,Mississippi
+Payne,Oklahoma
+Onslow,North Carolina
+Rockcastle,Kentucky
+Bath,Kentucky
+Susquehanna,Pennsylvania
+Otter Tail,Minnesota
+Washington,Iowa
+Webster,Kentucky
+Philadelphia,Pennsylvania
+Franklin,Virginia
+Grainger,Tennessee
+Burt,Nebraska
+St. Mary,Louisiana
+Calloway,Kentucky
+Clinton,New York
+Suwannee,Florida
+Mower,Minnesota
+Cumberland,Tennessee
+Hardin,Tennessee
+Lincoln,West Virginia
+Randolph,Illinois
+Reynolds,Missouri
+Haywood,Tennessee
+Jerauld,South Dakota
+Granville,North Carolina
+Unknown,Kentucky
+Socorro,New Mexico
+Bamberg,South Carolina
+Jay,Indiana
+Wahkiakum,Washington
+Seminole,Florida
+Ontario,New York
+Fulton,Ohio
+Wapello,Iowa
+Berkeley,South Carolina
+Jefferson,Tennessee
+Limestone,Texas
+Rockbridge,Virginia
+Clearfield,Pennsylvania
+Union,Arkansas
+Jenkins,Georgia
+Spink,South Dakota
+Tipton,Tennessee
+Fayette,Indiana
 Martin,Kentucky
-Dyer,Tennessee
-Warren,Tennessee
-Forrest,Mississippi
-Baker,Florida
-Tuscola,Michigan
-St. Joseph,Indiana
-Sevier,Tennessee
-Park,Colorado
-McMinn,Tennessee
+Salem,New Jersey
+Craighead,Arkansas
+Page,Iowa
+Lawrence,Tennessee
+Kossuth,Iowa
+Warren,Virginia
+Crook,Wyoming
+Houston,Alabama
+Lake,Florida
+Benton,Washington
+Hardin,Kentucky
+Gilpin,Colorado
+Chippewa,Wisconsin
+DeKalb,Illinois
+Van Zandt,Texas
+Wayne,Nebraska
+Forsyth,Georgia
+Otsego,Michigan
+Marion,Missouri
+Wythe,Virginia
+Atchison,Kansas
+Mahaska,Iowa
+Sawyer,Wisconsin
+Noble,Oklahoma
+Jessamine,Kentucky
+Fayette,Iowa
+Teton,Wyoming
+Beltrami,Minnesota
+Beaufort,North Carolina
+Talbot,Maryland
+Harrison,Missouri
+Lanier,Georgia
+Denton,Texas
+Fayette,Ohio
+Sheboygan,Wisconsin
+Charles,Maryland
+Tensas,Louisiana
+Alfalfa,Oklahoma
+Newton,Georgia
 Johnson,Arkansas
+Franklin,Massachusetts
+Mercer,Pennsylvania
+Madison,Kentucky
+Norfolk city,Virginia
+Valencia,New Mexico
+Rice,Minnesota
+Dillon,South Carolina
+McKenzie,North Dakota
+Medina,Ohio
+Howard,Indiana
+Jefferson,Texas
+Monroe,Alabama
+Norton city,Virginia
+Lewis,Missouri
+Erath,Texas
+Union,Tennessee
+Carroll,New Hampshire
+Brooks,Georgia
+Hill,Texas
+Rusk,Texas
+Cross,Arkansas
+Jackson,North Carolina
+Jefferson,Illinois
+Candler,Georgia
+Unknown,Maine
+Duval,Texas
+Newton,Mississippi
+McCurtain,Oklahoma
+Powhatan,Virginia
+Grafton,New Hampshire
+Crosby,Texas
+Lubbock,Texas
+Carroll,Mississippi
+Roane,Tennessee
+Outagamie,Wisconsin
+Coosa,Alabama
+Coos,Oregon
+Dixon,Nebraska
+Oldham,Texas
+Lake,Colorado
+Grant,Louisiana
+Larue,Kentucky
+Schley,Georgia
+Putnam,Georgia
+Platte,Nebraska
+Guernsey,Ohio
+White,Illinois
+Belknap,New Hampshire
+Riverside,California
+Matagorda,Texas
+Gila,Arizona
+Lenawee,Michigan
+Meade,Kentucky
+Sumter,Alabama
+Hunterdon,New Jersey
+Clark,Arkansas
+Williamson,Tennessee
+McNairy,Tennessee
+Orangeburg,South Carolina
+Madison,Tennessee
+Floyd,Indiana
+Wilson,Texas
+Hampden,Massachusetts
+Tioga,Pennsylvania
+Garrard,Kentucky
+Honolulu,Hawaii
+Silver Bow,Montana
+Peach,Georgia
+Tyrrell,North Carolina
+Leslie,Kentucky
+Potter,Texas
+Pulaski,Arkansas
+Hutchinson,South Dakota
+Chatham,North Carolina
+Montezuma,Colorado
+Stearns,Minnesota
+Taylor,West Virginia
+Coahoma,Mississippi
+Cowlitz,Washington
+Newton,Indiana
+Woodford,Illinois
+Caledonia,Vermont
+Zapata,Texas
+Jasper,South Carolina
+Poquoson city,Virginia
+Morgan,West Virginia
+Columbia,Washington
+Williamson,Texas
+Fairfax,Virginia
+Knox,Kentucky
+Mecklenburg,Virginia
+Lexington,South Carolina
+Sampson,North Carolina
+Warren,Missouri
+Buena Vista city,Virginia
+Unknown,Tennessee
+Kent,Rhode Island
+Sullivan,Indiana
+Tolland,Connecticut
+New London,Connecticut
+Douglas,Oregon
+Stone,Mississippi
+Dallas,Alabama
+Mille Lacs,Minnesota
+Grand Traverse,Michigan
+Franklin,Pennsylvania
+Bolivar,Mississippi
+Colfax,Nebraska
+Brown,South Dakota
+Mercer,Kentucky
+Monroe,Indiana
+Jackson,Illinois
+Heard,Georgia
+Bremer,Iowa
+Winnebago,Wisconsin
+Whitley,Indiana
+Chippewa,Minnesota
+Jefferson,Montana
+Salt Lake,Utah
+Shelby,Kentucky
+Atkinson,Georgia
+Bowie,Texas
+Dubuque,Iowa
+Cheyenne,Nebraska
+Summit,Ohio
+Swisher,Texas
+Pike,Ohio
+Ben Hill,Georgia
+Sioux,North Dakota
+Hancock,Illinois
+Humboldt,California
+Harrison,Iowa
+Albany,New York
+Smith,Kansas
+New Hanover,North Carolina
+Marshall,Iowa
+Antelope,Nebraska
+Cass,Nebraska
+Schuyler,Illinois
+Essex,Vermont
+Clinton,Ohio
+Chattooga,Georgia
+Fulton,Illinois
+Hinds,Mississippi
+Shelby,Tennessee
+Clinton,Iowa
+Monroe,Mississippi
+Franklin city,Virginia
+Dawson,Nebraska
+Cattaraugus,New York
+King,Washington
+Unknown,Michigan
+Saline,Illinois
+Wood,Texas
+Blaine,Idaho
+Lee,Florida
+Rogers,Oklahoma
+Johnson,Georgia
+Kershaw,South Carolina
+Garfield,Utah
+Fentress,Tennessee
+Dinwiddie,Virginia
+Jim Wells,Texas
+Niagara,New York
+Murray,Georgia
+Wayne,Indiana
+Massac,Illinois
+Gaston,North Carolina
+Walker,Texas
+Clark,Nevada
+Garland,Arkansas
+Saunders,Nebraska
+Clinton,Indiana
+Beaverhead,Montana
+Liberty,Texas
+Buena Vista,Iowa
+Summers,West Virginia
+Yolo,California
+Unknown,Pennsylvania
+Camas,Idaho
+Coles,Illinois
+Lafayette,Louisiana
+Shelby,Indiana
+Adams,Ohio
+Lowndes,Mississippi
+Union,Louisiana
+Stutsman,North Dakota
+Miami,Indiana
+Livingston,Missouri
+Warren,Ohio
+Carroll,Kentucky
+Walworth,Wisconsin
+Motley,Texas
+Collin,Texas
+Guadalupe,New Mexico
+Whatcom,Washington
+Clearwater,Minnesota
+Thomas,Georgia
+Preble,Ohio
+Monroe,Arkansas
+Lehigh,Pennsylvania
+Scott,Kansas
+Berrien,Georgia
+Monroe,Kentucky
+Owyhee,Idaho
+Montgomery,Pennsylvania
+Washington,North Carolina
+Dubois,Indiana
+Bristol,Rhode Island
+Wayne,Michigan
+Ozaukee,Wisconsin
+Monroe,Tennessee
+Tallahatchie,Mississippi
+Mason,Texas
+Oceana,Michigan
+Augusta,Virginia
+Wakulla,Florida
+Burke,Georgia
+Clay,Kansas
+Faribault,Minnesota
+Fairfield,South Carolina
+Bibb,Georgia
+Autauga,Alabama
+Tattnall,Georgia
+Greensville,Virginia
+Buffalo,Wisconsin
+Licking,Ohio
+Kiowa,Oklahoma
+Colquitt,Georgia
+Buncombe,North Carolina
+Nicollet,Minnesota
+Union,Ohio
+Genesee,Michigan
+Tuscarawas,Ohio
+Knox,Nebraska
+Tippecanoe,Indiana
+Citrus,Florida
+Adair,Kentucky
+Edmonson,Kentucky
+Ralls,Missouri
+Christian,Missouri
+McKinley,New Mexico
+Isanti,Minnesota
+Colbert,Alabama
+Le Flore,Oklahoma
+Forrest,Mississippi
+Williamsburg,South Carolina
+Hopkins,Texas
+Crittenden,Kentucky
+Richland,South Carolina
+Harris,Georgia
+Wayne,Mississippi
+Marion,Texas
+St. James,Louisiana
+Rowan,Kentucky
+Henry,Illinois
+Big Horn,Montana
+Washington,Georgia
+Napa,California
+Ogemaw,Michigan
+Grady,Oklahoma
+Avoyelles,Louisiana
+Shelby,Alabama
+Butler,Kansas
+Dunklin,Missouri
+Cumberland,Kentucky
+Grand,Utah
+Howard,Arkansas
+Martin,North Carolina
+Ouray,Colorado
+Lumpkin,Georgia
+Nobles,Minnesota
+Merced,California
+McCook,South Dakota
+Lee,Iowa
+Clark,Kentucky
+Maui,Hawaii
+Hamilton,Florida
+Henderson,Tennessee
+Nottoway,Virginia
+Powell,Kentucky
+Beckham,Oklahoma
+Boone,Missouri
+Chemung,New York
+Beaufort,South Carolina
+Mercer,North Dakota
+Dallas,Arkansas
+Wicomico,Maryland
+Rains,Texas
+Warren,Iowa
+Adams,Idaho
+Dakota,Minnesota
+Calumet,Wisconsin
+Trempealeau,Wisconsin
+Van Buren,Arkansas
+LaGrange,Indiana
+Fremont,Idaho
+Marion,Illinois
+Neshoba,Mississippi
+DeKalb,Missouri
+Baraga,Michigan
+Scott,Missouri
+Mineral,West Virginia
+Redwood,Minnesota
+Ellis,Texas
+Macon,Georgia
+Barber,Kansas
+Fayette,Illinois
+Attala,Mississippi
+Kalkaska,Michigan
+Gogebic,Michigan
+Del Norte,California
+Habersham,Georgia
+Todd,South Dakota
+Scioto,Ohio
+Auglaize,Ohio
+Newton,Arkansas
+Mason,Michigan
+Madison,Missouri
+Fremont,Wyoming
+Big Horn,Wyoming
+Montgomery,Maryland
+McDonough,Illinois
+Owen,Indiana
+San Diego,California
+Lee,Mississippi
+Albany,Wyoming
+Clayton,Iowa
+Charles Mix,South Dakota
+Scotland,North Carolina
+Tipton,Indiana
+Alexandria city,Virginia
+Wabash,Indiana
+Stafford,Virginia
+Unknown,Vermont
+Turner,Georgia
+Williams,North Dakota
+St. Clair,Michigan
+Arlington,Virginia
+Coryell,Texas
+San Bernardino,California
+Fredericksburg city,Virginia
+Rockdale,Georgia
+Franklin,Indiana
+Marshall,Mississippi
+Deuel,South Dakota
+Richmond,North Carolina
+Hanover,Virginia
+Kemper,Mississippi
+Racine,Wisconsin
+Cimarron,Oklahoma
+Niobrara,Wyoming
+Jefferson,Washington
+Winston,Mississippi
+Wheeler,Georgia
+Chilton,Alabama
+West Feliciana,Louisiana
+Berks,Pennsylvania
+Dodge,Wisconsin
+Strafford,New Hampshire
+Glynn,Georgia
+Jackson,Kansas
+Tehama,California
+Quitman,Mississippi
+Bullock,Alabama
+Unknown,Missouri
+Orleans,New York
+Henry,Missouri
+Deaf Smith,Texas
+Montgomery,Indiana
+Sharp,Arkansas
+Champaign,Ohio
+Harrison,Mississippi
+Putnam,Tennessee
+Isle of Wight,Virginia
+Box Butte,Nebraska
+Marshall,Alabama
+Cannon,Tennessee
+Union,Kentucky
+Monroe,Pennsylvania
+county,state
+Marion,Iowa
+Martin,Indiana
+Mahoning,Ohio
+Henderson,Illinois
+Webster,Missouri
+Bedford,Pennsylvania
+Henderson,Texas
+San Joaquin,California
+Solano,California
+San Patricio,Texas
+Todd,Kentucky
+East Carroll,Louisiana
+Menominee,Michigan
+Warren,New Jersey
+Unknown,New Jersey
+Butler,Nebraska
+Warren,Illinois
+St. Clair,Alabama
+Boone,Illinois
+Oconto,Wisconsin
+Allegheny,Pennsylvania
+Benton,Minnesota
+Vermilion,Illinois
+Winchester city,Virginia
+Unknown,Louisiana
+Madison,Florida
+Unknown,Mississippi
+Campbell,Kentucky
+Saginaw,Michigan
+Unknown,New Mexico
+Clark,Ohio
+Mifflin,Pennsylvania
+Hancock,Indiana
+Jackson,Iowa
+Unknown,New Hampshire
+Rockland,New York
+Berkeley,West Virginia
+Yavapai,Arizona
+Anoka,Minnesota
+Benzie,Michigan
+Porter,Indiana
+Jackson,Ohio
+Sequatchie,Tennessee
+Wetzel,West Virginia
+Wilkin,Minnesota
+Knox,Indiana
+Cascade,Montana
+Saguache,Colorado
+Okfuskee,Oklahoma
+Livingston,Louisiana
+Webster,Mississippi
+Pointe Coupee,Louisiana
+Bastrop,Texas
+Prince George's,Maryland
+Webster,Louisiana
+Logan,Illinois
+Gooding,Idaho
+Currituck,North Carolina
+Allegany,New York
+Jackson,Indiana
+Hancock,Iowa
+Greenbrier,West Virginia
+Marengo,Alabama
+Hancock,Ohio
+Brown,Wisconsin
+Ashland,Ohio
+Marion,Ohio
+Ottawa,Kansas
+East Baton Rouge,Louisiana
+Floyd,Texas
+Pope,Arkansas
+Camp,Texas
+Catawba,North Carolina
+Atchison,Missouri
+Erie,Ohio
+Rutherford,Tennessee
+Antrim,Michigan
+Madison,Mississippi
+Fremont,Colorado
+Montgomery,Virginia
+Madison,Louisiana
+Bergen,New Jersey
+Unknown,Florida
+Sullivan,Pennsylvania
+Eaton,Michigan
+Chautauqua,New York
+Knox,Texas
+Clarion,Pennsylvania
+Gage,Nebraska
+Culpeper,Virginia
+Clinton,Illinois
+Cayuga,New York
+Marshall,Oklahoma
+Ulster,New York
+Somerset,Pennsylvania
+Saline,Missouri
+Carroll,Tennessee
+Ottawa,Oklahoma
+Lake,Tennessee
+Perry,Indiana
+Clay,Illinois
+Cottonwood,Minnesota
+Chenango,New York
+Graves,Kentucky
+Duchesne,Utah
+Yukon-Koyukuk Census Area,Alaska
+Pike,Missouri
+Mecosta,Michigan
+Macon,Tennessee
+Hartley,Texas
+Eddy,North Dakota
+Grant,Arkansas
+Ray,Missouri
+New Haven,Connecticut
+Loudon,Tennessee
+Colfax,New Mexico
+Major,Oklahoma
+Las Animas,Colorado
+Okeechobee,Florida
+St. Joseph,Indiana
+Bryan,Oklahoma
+Noble,Indiana
+Union,Pennsylvania
+Marion,West Virginia
+Polk,Oregon
+Jones,Texas
+Hernando,Florida
+Oklahoma,Oklahoma
+Clay,Kentucky
+Crawford,Missouri
+Macon,Illinois
+St. Lawrence,New York
+Itasca,Minnesota
+Tate,Mississippi
+Lamar,Mississippi
+Richland,Montana
+Oxford,Maine
+Ector,Texas
+Cedar,Missouri
+Stanly,North Carolina
+San Juan,Washington
+Winkler,Texas
+Orange,Virginia
+Muskogee,Oklahoma
+Elmore,Alabama
+Hall,Georgia
+Gilchrist,Florida
+Yakima,Washington
+Leavenworth,Kansas
+Giles,Tennessee
+Dooly,Georgia
+Hot Springs,Wyoming
+Collier,Florida
+Carter,Missouri
+Woodward,Oklahoma
+Marshall,Tennessee
+Nez Perce,Idaho
+Brazos,Texas
+Unknown,Virgin Islands
+Clarke,Georgia
+York,Maine
+Dare,North Carolina
+Newaygo,Michigan
+Glenn,California
+Anderson,Kentucky
+Franklin,Kentucky
+McCracken,Kentucky
+Horry,South Carolina
+Cuming,Nebraska
+Trigg,Kentucky
+Brunswick,Virginia
+Anson,North Carolina
+Carroll,Maryland
+Wasatch,Utah
+Chester,Tennessee
+Walthall,Mississippi
+Fayette,Georgia
+Cleveland,North Carolina
+Newport News city,Virginia
+Miller,Arkansas
+Humboldt,Iowa
+Unknown,Northern Mariana Islands
+Adams,Pennsylvania
+Montgomery,Georgia
+Newberry,South Carolina
+Blue Earth,Minnesota
+Butler,Alabama
+Davidson,Tennessee
+Henry,Georgia
+Carbon,Pennsylvania
+Sarpy,Nebraska
+Richmond,Virginia
+Jefferson,Florida
+Chickasaw,Mississippi
+Grand Isle,Vermont
+Mitchell,Georgia
+Nome Census Area,Alaska
+San Benito,California
+Rappahannock,Virginia
+Calaveras,California
+Rowan,North Carolina
+Claiborne,Louisiana
+Bernalillo,New Mexico
+Indian River,Florida
+Jefferson,Ohio
+Johnston,Oklahoma
+Manassas city,Virginia
+Oconee,South Carolina
+Jerome,Idaho
+Essex,Massachusetts
+Sheridan,Kansas
+Morris,Texas
+Williamsburg city,Virginia
+Jefferson,Oklahoma
+Surry,North Carolina
+Matanuska-Susitna Borough,Alaska
+Yuma,Colorado
+Lewis,Idaho
+Columbia,New York
+Douglas,Wisconsin
+Nevada,Arkansas
+Traverse,Minnesota
+Charlottesville city,Virginia
+Belmont,Ohio
+Harrison,Ohio
+Custer,Nebraska
+Stephens,Oklahoma
+Van Buren,Tennessee
+Noxubee,Mississippi
+Ogle,Illinois
+Oswego,New York
+Lincoln,Oklahoma
+Polk,Nebraska
+Ohio,Indiana
+Switzerland,Indiana
+Llano,Texas
+Pike,Pennsylvania
+Armstrong,Texas
+Unknown,Virginia
+Perry,Alabama
+Rankin,Mississippi
+Blackford,Indiana
+Hawaii,Hawaii
+Livingston,Michigan
+Hart,Kentucky
+Deschutes,Oregon
+Chaffee,Colorado
+Amite,Mississippi
+Christian,Illinois
+Phillips,Arkansas
+Pulaski,Indiana
+Morris,New Jersey
+Oneida,Wisconsin
+St. Francis,Arkansas
+Bates,Missouri
+Meade,South Dakota
+Muscatine,Iowa
+Jasper,Missouri
+Barnes,North Dakota
+Marshall,Illinois
+McKean,Pennsylvania
+Washington,Pennsylvania
+Cortland,New York
+Adams,Wisconsin
+Tarrant,Texas
+Wilcox,Alabama
+McIntosh,Oklahoma
+Le Sueur,Minnesota
+Wasco,Oregon
+Bartow,Georgia
+Randolph,Missouri
+Scott,Tennessee
+Green Lake,Wisconsin
+Fayette,Alabama
+Dukes,Massachusetts
+Sherman,Kansas
+Baca,Colorado
+Sedgwick,Kansas
+De Witt,Illinois
+Mitchell,Iowa
+Greene,Virginia
+Hopkins,Kentucky
+Martin,Florida
+Madison,Virginia
+Putnam,New York
+Dauphin,Pennsylvania
+Polk,Texas
+Lackawanna,Pennsylvania
+Tuolumne,California
+Willacy,Texas
+Hale,Texas
+Lincoln,New Mexico
+Utah,Utah
+Pike,Mississippi
+Lincoln,Mississippi
+Hillsborough,Florida
+Cherokee,Alabama
+Lincoln,Louisiana
+Paulding,Georgia
+Worth,Iowa
+Pittsburg,Oklahoma
+McClain,Oklahoma
+Dade,Georgia
+Oktibbeha,Mississippi
+Mitchell,Texas
+Grundy,Tennessee
+Indiana,Pennsylvania
+Jefferson,West Virginia
+Russell,Alabama
+El Paso,Texas
+Oscoda,Michigan
+Washington,Virginia
+Wyoming,New York
+Dodge,Minnesota
+Sumner,Kansas
+White Pine,Nevada
+Scott,Arkansas
+Crawford,Georgia
+Wood,West Virginia
+Addison,Vermont
+Benton,Iowa
+Richmond city,Virginia
+Bayfield,Wisconsin
+Harford,Maryland
+Caldwell,North Carolina
+Cass,Illinois
+Barry,Michigan
+Cleburne,Arkansas
+Flathead,Montana
+Sibley,Minnesota
+Sonoma,California
+Brown,Ohio
+Garfield,Colorado
+Clay,Georgia
+Tift,Georgia
+Bleckley,Georgia
+Greene,Missouri
+Crawford,Iowa
+Morrison,Minnesota
+Ballard,Kentucky
+Johnson,Iowa
+Union,North Carolina
+Titus,Texas
+Boone,Arkansas
+Canadian,Oklahoma
+Carbon,Utah
+Roosevelt,Montana
+Waynesboro city,Virginia
+Clark,Wisconsin
+Nelson,Virginia
+Haralson,Georgia
+Marion,South Carolina
+Plymouth,Massachusetts
+Henry,Tennessee
+Custer,Oklahoma
+Gallatin,Illinois
+Clarke,Alabama
+Bullitt,Kentucky
+Johnson,Indiana
+Campbell,Wyoming
+Johnson,Nebraska
+Lewis,Kentucky
+Livingston,Kentucky
+Juneau City and Borough,Alaska
+Portage,Wisconsin
+Cass,Michigan
+Delaware,Pennsylvania
+Spencer,Kentucky
+Mahnomen,Minnesota
+Pettis,Missouri
+Alpena,Michigan
+Lamb,Texas
+Lyon,Iowa
+Power,Idaho
+Roberts,Texas
+Owsley,Kentucky
+Cherokee,Oklahoma
+Washakie,Wyoming
+Swift,Minnesota
+Los Alamos,New Mexico
+Clay,South Dakota
+Dyer,Tennessee
+Lycoming,Pennsylvania
+Maricopa,Arizona
+Parker,Texas
+Missaukee,Michigan
+Franklin,Arkansas
+Logan,Arkansas
+Jones,Mississippi
+Ste. Genevieve,Missouri
+Crowley,Colorado
+Phillips,Colorado
+Hart,Georgia
+Galax city,Virginia
+Choctaw,Alabama
+Dearborn,Indiana
+Anderson,South Carolina
+Clermont,Ohio
+Denver,Colorado
+Itawamba,Mississippi
+Prowers,Colorado
+Saratoga,New York
+Lamar,Texas
+Morgan,Missouri
+Des Moines,Iowa
+Brown,Minnesota
+Somerset,Maryland
+Washington,Indiana
+Red Lake,Minnesota
+Clarke,Mississippi
+Norfolk,Massachusetts
+Mason,Washington
+Chambers,Alabama
+Bandera,Texas
+Lake,Ohio
+Mississippi,Arkansas
+Florence,Wisconsin
+Kandiyohi,Minnesota
+Furnas,Nebraska
+Randolph,Georgia
+Uintah,Utah
+Scotts Bluff,Nebraska
+Lincoln,Missouri
+Hamblen,Tennessee
+Rio Blanco,Colorado
+Gillespie,Texas
+Livingston,New York
+Wells,Indiana
+Macon,Missouri
+Floyd,Virginia
+Cherokee,Kansas
+Bedford,Virginia
+Curry,Oregon
+Skamania,Washington
+Otero,Colorado
+Wilcox,Georgia
+Spalding,Georgia
+Dane,Wisconsin
+Tangipahoa,Louisiana
+Washington,Maryland
+Monroe,New York
+Bond,Illinois
+Camden,Missouri
+Laurel,Kentucky
+Ouachita,Louisiana
+Terrell,Georgia
+Black Hawk,Iowa
+Johnson,Kansas
+Eastland,Texas
+Osceola,Florida
+Gallatin,Kentucky
+Dodge,Nebraska
+Albemarle,Virginia
+Scott,Mississippi
+Westmoreland,Virginia
+Day,South Dakota
+Osborne,Kansas
+Bannock,Idaho
+Bay,Michigan
+Ward,North Dakota
+Putnam,Ohio
+Aitkin,Minnesota
+Merrick,Nebraska
+Hamlin,South Dakota
+Carroll,Arkansas
+Gentry,Missouri
+Pickens,Georgia
+Washington,Illinois
+Darlington,South Carolina
+Peoria,Illinois
+McDowell,West Virginia
+Yellowstone,Montana
+Fulton,Indiana
+Coffee,Georgia
+Dutchess,New York
+Eddy,New Mexico
+Hidalgo,Texas
+Fairfield,Connecticut
+Unknown,Connecticut
+Marshall,South Dakota
+Waller,Texas
+Ontonagon,Michigan
+Muskegon,Michigan
+Chariton,Missouri
+Concho,Texas
+Kane,Illinois
+Calvert,Maryland
+Mendocino,California
+Crane,Texas
+Lincoln,South Dakota
+San Luis Obispo,California
+Yell,Arkansas
+Warren,Pennsylvania
+Kitsap,Washington
+Falls,Texas
+Ramsey,Minnesota
+Berrien,Michigan
+Unknown,Utah
+Windsor,Vermont
+Lancaster,Pennsylvania
+New Castle,Delaware
+Atoka,Oklahoma
+Stephenson,Illinois
+Mesa,Colorado
+Sheridan,Wyoming
+Davis,Utah
+Monroe,Illinois
+Labette,Kansas
+Union,New Jersey
+Stanton,Nebraska
+Irwin,Georgia
+Daviess,Kentucky
+Goochland,Virginia
+Hendricks,Indiana
+Roane,West Virginia
+Norman,Minnesota
+Chickasaw,Iowa
+Litchfield,Connecticut
+Calhoun,South Carolina
+Hoke,North Carolina
+Jones,Georgia
+McCreary,Kentucky
+Hennepin,Minnesota
+Rio Grande,Colorado
+Larimer,Colorado
+Tillamook,Oregon
+Marion,Arkansas
+Pulaski,Missouri
+Humboldt,Nevada
+Broomfield,Colorado
+Marion,Kentucky
+DeKalb,Georgia
+Cache,Utah
+Grimes,Texas
+Keokuk,Iowa
+Holmes,Florida
+Franklin,Nebraska
+Pike,Illinois
+Pawnee,Oklahoma
+Schoolcraft,Michigan
+Huron,Ohio
+El Dorado,California
+Lafayette,Missouri
+Linn,Oregon
+Stark,Ohio
+Lafayette,Mississippi
+Lyon,Kansas
+Clay,Missouri
+Juneau,Wisconsin
+Effingham,Illinois
+Burnet,Texas
+Howard,Texas
+Pecos,Texas
+Limestone,Alabama
+Fountain,Indiana
+Wilkinson,Mississippi
+Chesapeake city,Virginia
+Richmond,Georgia
+Schoharie,New York
+Pickens,Alabama
+Woodson,Kansas
+Otoe,Nebraska
+Alexander,North Carolina
+Dallas,Texas
+Ferry,Washington
+Grant,Washington
+Charleston,South Carolina
+Crittenden,Arkansas
+Delaware,Iowa
+Santa Clara,California
+Queen Anne's,Maryland
+Towns,Georgia
+St. Charles,Louisiana
+Buffalo,Nebraska
+Walker,Alabama
+Midland,Michigan
+Kenosha,Wisconsin
+York,Nebraska
+Mason,Illinois
+Gordon,Georgia
+Laurens,South Carolina
+Castro,Texas
+Thurston,Nebraska
+Seminole,Oklahoma
+Hamilton,Iowa
+Red Willow,Nebraska
+Washington,Vermont
+Charles City,Virginia
+Montgomery,Kansas
+Stanton,Kansas
+Sacramento,California
+Iowa,Iowa
+Blair,Pennsylvania
+Grady,Georgia
+Carson City,Nevada
+Val Verde,Texas
+Marion,Tennessee
+Aiken,South Carolina
+Crawford,Pennsylvania
+Northampton,North Carolina
+Glacier,Montana
+Newton,Texas
+Noble,Ohio
+Cape Girardeau,Missouri
+Polk,Wisconsin
+Lafayette,Wisconsin
+Lawrence,Pennsylvania
+Jefferson,Pennsylvania
+Washington,Colorado
+Washington,Minnesota
+Cobb,Georgia
+Carroll,Georgia
+Natchitoches,Louisiana
+Monroe,Ohio
+Ashland,Wisconsin
+Amelia,Virginia
+Bee,Texas
+Coffee,Alabama
+Iron,Missouri
+Osceola,Iowa
+Audrain,Missouri
+Fairbanks North Star Borough,Alaska
+Franklin,Illinois
+Lapeer,Michigan
+Blount,Tennessee
+DeKalb,Indiana
+Beaver,Pennsylvania
+McDowell,North Carolina
+Juab,Utah
+Mohave,Arizona
+Franklin,Ohio
+Jackson,Wisconsin
+Schuylkill,Pennsylvania
+Warren,Kentucky
+Walla Walla,Washington
+Kearny,Kansas
+Cooke,Texas
+Stoddard,Missouri
+Johnson,Missouri
+Emmet,Michigan
+Navarro,Texas
+Hamilton,Texas
+Grant,Oklahoma
+Gallia,Ohio
+St. Mary's,Maryland
+Winona,Minnesota
+White,Indiana
+Rutherford,North Carolina
+Hood,Texas
+Winneshiek,Iowa
+Wise,Virginia
+Howard,Iowa
+Siskiyou,California
+Berkshire,Massachusetts
+Mineral,Colorado
+Contra Costa,California
+Cleveland,Oklahoma
+Wilkinson,Georgia
+Bristol,Massachusetts
+Warren,Tennessee
+Taney,Missouri
+Galveston,Texas
+Wilson,North Carolina
+Geauga,Ohio
+Dallas,Iowa
+Corson,South Dakota
+Kingfisher,Oklahoma
+Abbeville,South Carolina
+Island,Washington
+Hinsdale,Colorado
+Greenwood,Kansas
+Ellis,Kansas
+Patrick,Virginia
+Jefferson,Alabama
+Perry,Pennsylvania
+Claiborne,Tennessee
+Tyler,West Virginia
+Roseau,Minnesota
+Dorchester,Maryland
+Wyoming,Pennsylvania
+Wichita,Texas
+Manatee,Florida
+Yadkin,North Carolina
+Eau Claire,Wisconsin
+Gibson,Tennessee
+Frederick,Virginia
+Morton,Kansas
+Lynn,Texas
+Montour,Pennsylvania
+Iredell,North Carolina
+Simpson,Mississippi
+Chisago,Minnesota
+Lincoln,Nebraska
+Sully,South Dakota
+Radford city,Virginia
+James City,Virginia
+Panola,Mississippi
+Fulton,Georgia
+Lafayette,Arkansas
+Sabine,Louisiana
+Athens,Ohio
+Tompkins,New York
+Ventura,California
+Carter,Oklahoma
+Wayne,Illinois
+Montgomery,Tennessee
+Comanche,Oklahoma
+Cass,Iowa
+Buckingham,Virginia
+Baltimore city,Maryland
+Freestone,Texas
+Northumberland,Virginia
+Pleasants,West Virginia
+Brown,Indiana
+Moore,North Carolina
+Plymouth,Iowa
+Lake,Indiana
+Unknown,Delaware
+Waukesha,Wisconsin
+Lafourche,Louisiana
+Marshall,Kentucky
+DeKalb,Alabama
+Harvey,Kansas
+Scotland,Missouri
+Franklin,Tennessee
+Hempstead,Arkansas
+Anderson,Tennessee
+Montgomery,Texas
+Bulloch,Georgia
+Harrison,Kentucky
+Prince William,Virginia
+Washington,Florida
+Cherry,Nebraska
+Grayson,Kentucky
+Cabarrus,North Carolina
+Lamar,Georgia
+Brevard,Florida
+Levy,Florida
+Catahoula,Louisiana
+Idaho,Idaho
+Hays,Texas
+Mobile,Alabama
+Washington,Wisconsin
+Muhlenberg,Kentucky
+Coffey,Kansas
+Prairie,Arkansas
+Miner,South Dakota
+Story,Iowa
+Twiggs,Georgia
+Washington,Maine
+Chicot,Arkansas
+Knox,Tennessee
+Muscogee,Georgia
+Leake,Mississippi
+Jo Daviess,Illinois
+Orange,Florida
+Fayette,West Virginia
+DeWitt,Texas
+Vermillion,Indiana
+Hunt,Texas
+Carson,Texas
+Clackamas,Oregon
+Maverick,Texas
+Bourbon,Kentucky
+Kleberg,Texas
+Shelby,Missouri
+Walton,Georgia
+Walker,Georgia
+Spartanburg,South Carolina
+Grenada,Mississippi
+Barnstable,Massachusetts
+Southampton,Virginia
+Green,Kentucky
+Fayette,Texas
+Assumption,Louisiana
+Herkimer,New York
+Oglethorpe,Georgia
+Taylor,Florida
+Delta,Michigan
+Decatur,Indiana
+Bowman,North Dakota
+Duplin,North Carolina
+Orleans,Vermont
+Breathitt,Kentucky
+Tazewell,Illinois
+Adair,Iowa
+Henry,Virginia
+Cochise,Arizona
+Madison,New York
+Lynchburg city,Virginia
+Monterey,California
+Tuscola,Michigan
+Claiborne,Mississippi
+Caldwell,Louisiana
+Burleson,Texas
+Franklin,New York
+Greene,Alabama
+Perry,Kentucky
+Whitley,Kentucky
+Wabasha,Minnesota
+Republic,Kansas
+Lane,Oregon
+Dunn,Wisconsin
+Santa Cruz,California
+Montcalm,Michigan
+Accomack,Virginia
+Nassau,New York
+Montague,Texas
+Pike,Georgia
+Luce,Michigan
+Cherokee,South Carolina
+Richland,Ohio
+Green,Wisconsin
+Douglas,Nebraska
+Codington,South Dakota
+Luna,New Mexico
+Richland,Illinois
+Staunton city,Virginia
+Clinton,Kentucky
+Alamosa,Colorado
+Cibola,New Mexico
+Pinellas,Florida
+Polk,Minnesota
+Randolph,North Carolina
+Watauga,North Carolina
+Unknown,Arizona
+Lauderdale,Tennessee
+Ford,Illinois
+La Paz,Arizona
+Kent,Michigan
+Cass,Missouri
+Unknown,New York
+Yuba,California
+Treutlen,Georgia
+Baldwin,Georgia
+Transylvania,North Carolina
+Morgan,Indiana
+Pacific,Washington
+Arenac,Michigan
+Lewis,West Virginia
+Covington,Mississippi
+De Soto,Louisiana
+La Salle,Texas
+McDonald,Missouri
+Danville city,Virginia
+Columbus,North Carolina
+Waupaca,Wisconsin
+Angelina,Texas
+Orange,California
+Saline,Kansas
+Olmsted,Minnesota
+Lebanon,Pennsylvania
+Bryan,Georgia
+Clay,Mississippi
+Faulk,South Dakota
+Wayne,Tennessee
+Nicholas,Kentucky
+Greenville,South Carolina
+Lewis,New York
+Crawford,Michigan
+Cleburne,Alabama
+Anderson,Kansas
+O'Brien,Iowa
+Franklin,Kansas
+Orange,Indiana
+Campbell,Tennessee
+Parmer,Texas
+Jasper,Georgia
+Spotsylvania,Virginia
+Cass,North Dakota
+Otero,New Mexico
+Cameron,Texas
+Franklin,Maine
+Union,Indiana
+Walsh,North Dakota
+Polk,Arkansas
+Jackson,Oklahoma
+Anchorage,Alaska
+Schenectady,New York
+Liberty,Montana
+Doniphan,Kansas
+Morrill,Nebraska
+Dickinson,Kansas
+Pitt,North Carolina
+Orleans,Louisiana
+Calhoun,Florida
+Imperial,California
+Los Angeles,California
+Benton,Tennessee
+Murray,Minnesota
+Elkhart,Indiana
+Franklin,Alabama
+Suffolk,Massachusetts
+El Paso,Colorado
+Monroe,West Virginia
+Callahan,Texas
+Harrison,Indiana
+Adams,Colorado
+Hampshire,West Virginia
+Manitowoc,Wisconsin
+McLean,North Dakota
+Russell,Kentucky
+Dickinson,Iowa
+Kern,California
+Greene,Indiana
+Douglas,Kansas
+Grundy,Iowa
+Fayette,Tennessee
+Gloucester,Virginia
+Hopewell city,Virginia
+St. Louis,Minnesota
+Gregg,Texas
+Natrona,Wyoming
+Unknown,South Dakota
+Lyon,Nevada
+Ottawa,Michigan
+Lyon,Kentucky
+Morgan,Alabama
+LaSalle,Louisiana
+Preston,West Virginia
+Wyandot,Ohio
+Benton,Arkansas
+Pondera,Montana
+Clay,North Carolina
+Calhoun,Mississippi
+Greenwood,South Carolina
+Morrow,Oregon
+Alachua,Florida
+Franklin,Mississippi
+Marshall,Indiana
+St. Charles,Missouri
+Wilson,Kansas
+Unknown,Alaska
+Crawford,Wisconsin
+Durham,North Carolina
+Montgomery,North Carolina
+Cumberland,New Jersey
+McCormick,South Carolina
+Starke,Indiana
+Cape May,New Jersey
+Cocke,Tennessee
+Leon,Texas
+Miami,Ohio
+Adams,Indiana
+Montgomery,Illinois
+Louisa,Iowa
+Baldwin,Alabama
+Grant,Oregon
+Warren,New York
+Vilas,Wisconsin
+Marquette,Michigan
+Knox,Maine
+Greene,Mississippi
+Yamhill,Oregon
+Grundy,Illinois
+Mitchell,North Carolina
+Gove,Kansas
+Santa Rosa,Florida
+Manassas Park city,Virginia
+Unknown,Nebraska
+Webster,Iowa
+Upson,Georgia
+Rockwall,Texas
+San Mateo,California
+Unknown,Indiana
+Sunflower,Mississippi
+Elbert,Colorado
+Hancock,Mississippi
+Clinton,Michigan
+Goshen,Wyoming
+Chaves,New Mexico
+Chowan,North Carolina
+Columbia,Arkansas
+Caldwell,Texas
+Montmorency,Michigan
+Greene,Georgia
+Lyman,South Dakota
+Perry,Ohio
+Butler,Missouri
+Midland,Texas
+Barry,Missouri
+Washington,Texas
+Woodruff,Arkansas
+Unknown,Ohio
+Phillips,Kansas
+Echols,Georgia
+Josephine,Oregon
+Early,Georgia
+Unknown,Iowa
+Webster,Nebraska
+Jasper,Indiana
+Logan,Oklahoma
+Jackson,Louisiana
+Caddo,Oklahoma
+West Baton Rouge,Louisiana
+Jackson,Mississippi
+Polk,Tennessee
+Union,Iowa
+Iroquois,Illinois
+Bossier,Louisiana
+Yankton,South Dakota
+Morehouse,Louisiana
+Delta,Texas
+Holmes,Mississippi
+Spokane,Washington
+Mineral,Nevada
+Tippah,Mississippi
+Teton,Idaho
+McMinn,Tennessee
+Cassia,Idaho
+Madison,Indiana
+Washoe,Nevada
+Grayson,Texas
+Madison,Nebraska
+Randolph,West Virginia
+Terry,Texas
+Prentiss,Mississippi
+Mono,California
+Person,North Carolina
+Colleton,South Carolina
+Petersburg city,Virginia
+Clay,Iowa
+Iosco,Michigan
+Wright,Missouri
+Oakland,Michigan
+Giles,Virginia
+Fannin,Georgia
+Dallam,Texas
+St. Louis city,Missouri
+Halifax,North Carolina
+Miami-Dade,Florida
+Madison,Ohio
+Steele,Minnesota
+Sagadahoc,Maine
+Jasper,Mississippi
+Covington city,Virginia
+Isabella,Michigan
+Wayne,Georgia
+Alleghany,Virginia
+Zavala,Texas
+Madison,Iowa
+Pike,Kentucky
+Greene,North Carolina
+Atascosa,Texas
+Gallatin,Montana
+Jackson,Florida
+Rabun,Georgia
+Barron,Wisconsin
+Fayette,Kentucky
+Ross,Ohio
+Hale,Alabama
+Clark,Indiana
+Washington,Tennessee
+Pulaski,Virginia
+Unknown,Hawaii
+Holt,Missouri
+Saline,Nebraska
+Fall River,South Dakota
+Mayes,Oklahoma
+Monona,Iowa
+Unknown,Kansas
+Nowata,Oklahoma
+Morton,North Dakota
+Marinette,Wisconsin
+Boyd,Kentucky
+Letcher,Kentucky
+Kenton,Kentucky
+Sussex,Virginia
+Stark,North Dakota
+Crenshaw,Alabama
+Cullman,Alabama
+Latah,Idaho
+Scott,Virginia
+Caldwell,Missouri
+Plumas,California
+Broome,New York
+Bell,Texas
+Canyon,Idaho
+Jefferson,Kentucky
+Lunenburg,Virginia
+Charlotte,Virginia
+Hudson,New Jersey
+Whitman,Washington
+Nelson,North Dakota
+Hartford,Connecticut
+Virginia Beach city,Virginia
+San Juan,Utah
+Camden,Georgia
+Liberty,Georgia
+Rockingham,New Hampshire
+Floyd,Georgia
+Clarke,Virginia
+Garfield,Oklahoma
+Vermilion,Louisiana
+Musselshell,Montana
+Gray,Texas
+Millard,Utah
+Jefferson,Idaho
+Bartholomew,Indiana
+Bracken,Kentucky
+Darke,Ohio
+Weber,Utah
+Ware,Georgia
+Putnam,West Virginia
+Knox,Ohio
+Pittsylvania,Virginia
+Gaines,Texas
+Carroll,Illinois
+Clay,Florida
+Orange,North Carolina
+Lancaster,Nebraska
+Oliver,North Dakota
+Kennebec,Maine
+Meigs,Ohio
+Walton,Florida
+Tillman,Oklahoma
+Taylor,Georgia
+Portage,Ohio
+Van Buren,Iowa
+Essex,Virginia
+Otsego,New York
+Stevens,Kansas
+Bexar,Texas
+Adams,Nebraska
+Wexford,Michigan
+Frederick,Maryland
+Southeast Fairbanks Census Area,Alaska
+Escambia,Alabama
+Effingham,Georgia
+Bollinger,Missouri
+Menard,Illinois
+Atlantic,New Jersey
+Colonial Heights city,Virginia
+Washington,Idaho
+Cloud,Kansas
+Dawson,Texas
+Sumter,South Carolina
+Morgan,Georgia
+Ford,Kansas
+Palo Pinto,Texas
+Hill,Montana
+Charlton,Georgia
+Yalobusha,Mississippi
+Shasta,California
+Jackson,Missouri
